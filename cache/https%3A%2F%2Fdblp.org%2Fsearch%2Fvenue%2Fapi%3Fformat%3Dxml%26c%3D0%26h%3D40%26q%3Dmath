@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="89319">math*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.48</time>
+<completions total="10" computed="10" sent="0">
+</completions>
+<hits total="150" computed="100" sent="40" first="0">
+<hit score="1" id="146">
+<info><venue>ACM Symposium on Interactive Systems for Experimental Applied Mathematics</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/siseam/</url></info>
+<url>URL#146</url>
+</hit>
+<hit score="1" id="175">
+<info><venue>ACM Transactions on Mathematical Software (TOMS)</venue><acronym>TOMS</acronym><type>Journal</type><url>https://dblp.org/db/journals/toms/</url></info>
+<url>URL#175</url>
+</hit>
+<hit score="1" id="241">
+<info><venue>ARIMA Journal</venue><acronym>ARIMA</acronym><type>Journal</type><url>https://dblp.org/db/journals/arima/</url></info>
+<url>URL#241</url>
+</hit>
+<hit score="1" id="293">
+<info><venue>Advances in Applied Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/aam/</url></info>
+<url>URL#293</url>
+</hit>
+<hit score="1" id="301">
+<info><venue>Advances in Computational Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/adcm/</url></info>
+<url>URL#301</url>
+</hit>
+<hit score="1" id="314">
+<info><venue>Advances in Decision Sciences</venue><type>Journal</type><url>https://dblp.org/db/journals/jamds/</url></info>
+<url>URL#314</url>
+</hit>
+<hit score="1" id="326">
+<info><venue>Advances in Mathematics of Communications (AMC)</venue><acronym>AMC</acronym><type>Journal</type><url>https://dblp.org/db/journals/amco/</url></info>
+<url>URL#326</url>
+</hit>
+<hit score="1" id="363">
+<info><venue>Algebraic and Coalgebraic Methods in the Mathematics of Program Construction</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/acmmpc/</url></info>
+<url>URL#363</url>
+</hit>
+<hit score="1" id="372">
+<info><venue>Algorithmic Mathematics and Computer Science (AMCS)</venue><acronym>AMCS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/amcs/</url></info>
+<url>URL#372</url>
+</hit>
+<hit score="1" id="384">
+<info><venue>American Journal of Computational Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/ajcm/</url></info>
+<url>URL#384</url>
+</hit>
+<hit score="1" id="399">
+<info><venue>Annals of Mathematics and Artificial Intelligence</venue><type>Journal</type><url>https://dblp.org/db/journals/amai/</url></info>
+<url>URL#399</url>
+</hit>
+<hit score="1" id="401">
+<info><venue>Annals of Pure and Applied Logic</venue><type>Journal</type><url>https://dblp.org/db/journals/apal/</url></info>
+<url>URL#401</url>
+</hit>
+<hit score="1" id="476">
+<info><venue>Applied Mathematics Letters</venue><type>Journal</type><url>https://dblp.org/db/journals/appml/</url></info>
+<url>URL#476</url>
+</hit>
+<hit score="1" id="477">
+<info><venue>Applied Mathematics and Computation</venue><type>Journal</type><url>https://dblp.org/db/journals/amc/</url></info>
+<url>URL#477</url>
+</hit>
+<hit score="1" id="489">
+<info><venue>Archive for Mathematical Logic</venue><type>Journal</type><url>https://dblp.org/db/journals/aml/</url></info>
+<url>URL#489</url>
+</hit>
+<hit score="1" id="498">
+<info><venue>Ars Mathematica Contemporanea</venue><type>Journal</type><url>https://dblp.org/db/journals/arsmc/</url></info>
+<url>URL#498</url>
+</hit>
+<hit score="1" id="512">
+<info><venue>Artificial Intelligence and Symbolic Computation (AISC)</venue><acronym>AISC</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/aisc/</url></info>
+<url>URL#512</url>
+</hit>
+<hit score="1" id="573">
+<info><venue>Asian Symposium on Computer Mathematics (ASCM)</venue><acronym>ASCM</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/ascm/</url></info>
+<url>URL#573</url>
+</hit>
+<hit score="1" id="660">
+<info><venue>BIT - A Nordic Computer Related Journal</venue><type>Journal</type><url>https://dblp.org/db/journals/bit/</url></info>
+<url>URL#660</url>
+</hit>
+<hit score="1" id="748">
+<info><venue>Bulletin L&apos;Académie Polonaise des Science, Série des Sciences Mathématiques, Astronomiques et Physiques (BAPMAM)</venue><acronym>BAPMAM</acronym><type>Journal</type><url>https://dblp.org/db/journals/bapmam/</url></info>
+<url>URL#748</url>
+</hit>
+<hit score="1" id="914">
+<info><venue>Computational &amp; Mathematical Organization Theory</venue><type>Journal</type><url>https://dblp.org/db/journals/cmot/</url></info>
+<url>URL#914</url>
+</hit>
+<hit score="1" id="933">
+<info><venue>Computational Methods in Applied Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/cmam/</url></info>
+<url>URL#933</url>
+</hit>
+<hit score="1" id="944">
+<info><venue>Computational and Applied Mathematics (CAM)</venue><acronym>CAM</acronym><type>Journal</type><url>https://dblp.org/db/journals/cam/</url></info>
+<url>URL#944</url>
+</hit>
+<hit score="1" id="945">
+<info><venue>Computational and Mathematical Methods</venue><type>Journal</type><url>https://dblp.org/db/journals/cmm/</url></info>
+<url>URL#945</url>
+</hit>
+<hit score="1" id="946">
+<info><venue>Computational and Mathematical Methods in Medicine</venue><type>Journal</type><url>https://dblp.org/db/journals/cmmm/</url></info>
+<url>URL#946</url>
+</hit>
+<hit score="1" id="1012">
+<info><venue>Computers &amp; Mathematics with Applications</venue><type>Journal</type><url>https://dblp.org/db/journals/cma/</url></info>
+<url>URL#1012</url>
+</hit>
+<hit score="1" id="1018">
+<info><venue>Computers and Mathematics Conference</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/cm/</url></info>
+<url>URL#1018</url>
+</hit>
+<hit score="1" id="1212">
+<info><venue>Contemporary Mathematics</venue><type>Series</type><url>https://dblp.org/db/series/conm/</url></info>
+<url>URL#1212</url>
+</hit>
+<hit score="1" id="1214">
+<info><venue>Contributions to Discrete Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/cdm/</url></info>
+<url>URL#1214</url>
+</hit>
+<hit score="1" id="1264">
+<info><venue>DIMACS Series in Discrete Mathematics and Theoretical Computer Science (DIMACS)</venue><acronym>DIMACS</acronym><type>Series</type><url>https://dblp.org/db/conf/dimacs/index.html</url></info>
+<url>URL#1264</url>
+</hit>
+<hit score="1" id="1265">
+<info><venue>DMTCS Proceedings</venue><type>Series</type><url>https://dblp.org/db/series/dmtcs/</url></info>
+<url>URL#1265</url>
+</hit>
+<hit score="1" id="1382">
+<info><venue>Discrete Applied Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/dam/</url></info>
+<url>URL#1382</url>
+</hit>
+<hit score="1" id="1385">
+<info><venue>Discrete Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/dm/</url></info>
+<url>URL#1385</url>
+</hit>
+<hit score="1" id="1386">
+<info><venue>Discrete Mathematics &amp; Theoretical Computer Science (DMTCS)</venue><acronym>DMTCS</acronym><type>Journal</type><url>https://dblp.org/db/journals/dmtcs/</url></info>
+<url>URL#1386</url>
+</hit>
+<hit score="1" id="1387">
+<info><venue>Discrete Mathematics, Algorithms and Applications</venue><type>Journal</type><url>https://dblp.org/db/journals/dmaa/</url></info>
+<url>URL#1387</url>
+</hit>
+<hit score="1" id="1392">
+<info><venue>Discussiones Mathematicae Graph Theory</venue><type>Journal</type><url>https://dblp.org/db/journals/dmgt/</url></info>
+<url>URL#1392</url>
+</hit>
+<hit score="1" id="1408">
+<info><venue>Doctoral Workshop on Mathematical and Engineering Methods in Computer Science (MEMICS)</venue><acronym>MEMICS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/memics/</url></info>
+<url>URL#1408</url>
+</hit>
+<hit score="1" id="1502">
+<info><venue>Electronic Notes in Discrete Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/endm/</url></info>
+<url>URL#1502</url>
+</hit>
+<hit score="1" id="1627">
+<info><venue>European Conference on Numerical Mathematics and Advanced Applications (ENUMATH)</venue><acronym>ENUMATH</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/enumath/</url></info>
+<url>URL#1627</url>
+</hit>
+<hit score="1" id="1733">
+<info><venue>Experimental Mathematics</venue><type>Journal</type><url>https://dblp.org/db/journals/em/</url></info>
+<url>URL#1733</url>
+</hit>
+</hits>
+</result>

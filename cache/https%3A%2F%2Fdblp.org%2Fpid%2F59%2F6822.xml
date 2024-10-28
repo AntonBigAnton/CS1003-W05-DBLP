@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<dblpperson name="John A. S. Smith" pid="59/6822" n="13">
+<person key="homepages/59/6822" mdate="2009-06-10">
+<author pid="59/6822">John A. S. Smith</author>
+</person>
+<r><inproceedings key="conf/icassp/GudmundsonJPS09" mdate="2019-10-19">
+<author pid="12/2421">Erik Gudmundson</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="77/8056">Iain J. F. Poplett</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Detection and classification of liquid explosives using NMR.</title>
+<pages>3053-3056</pages>
+<year>2009</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2009.4960268</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960268</ee>
+<crossref>conf/icassp/2009</crossref>
+<url>db/conf/icassp/icassp2009.html#GudmundsonJPS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigpro/SomasundaramJS08" mdate="2020-02-22">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Analysis of nuclear quadrupole resonance signals from mixtures.</title>
+<pages>146-157</pages>
+<year>2008</year>
+<volume>88</volume>
+<journal>Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.sigpro.2007.07.009</ee>
+<url>db/journals/sigpro/sigpro88.html#SomasundaramJS08</url>
+</article>
+</r>
+<r><article key="journals/sigpro/ButtSJS08" mdate="2020-02-22">
+<author pid="51/1875">Naveed R. Butt</author>
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Frequency-selective robust detection and estimation of polymorphic QR signals.</title>
+<pages>834-843</pages>
+<year>2008</year>
+<volume>88</volume>
+<journal>Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.sigpro.2007.09.021</ee>
+<url>db/journals/sigpro/sigpro88.html#ButtSJS08</url>
+</article>
+</r>
+<r><article key="journals/tsp/SomasundaramJRSBA08" mdate="2020-03-10">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<author pid="51/1875">Naveed R. Butt</author>
+<author pid="53/4315">Kaspar Althoefer</author>
+<title>Robust Detection of Stochastic Nuclear Quadrupole Resonance Signals.</title>
+<pages>4221-4229</pages>
+<year>2008</year>
+<volume>56</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TSP.2008.923809</ee>
+<url>db/journals/tsp/tsp56.html#SomasundaramJRSBA08</url>
+</article>
+</r>
+<r><article key="journals/tsp/ButtJSS08" mdate="2020-03-10">
+<author pid="51/1875">Naveed R. Butt</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Robust Multichannel Detection of Mixtures Using Nuclear Quadrupole Resonance.</title>
+<pages>5042-5050</pages>
+<year>2008</year>
+<volume>56</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10-2</number>
+<ee>https://doi.org/10.1109/TSP.2008.928704</ee>
+<url>db/journals/tsp/tsp56.html#ButtJSS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/SomasundaramJRSBA08" mdate="2017-05-19">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author pid="19/928">Andreas Jakobsson</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<author pid="51/1875">Naveed R. Butt</author>
+<author pid="53/4315">Kaspar Althoefer</author>
+<title>Detecting stochastic nuclear quadrupole resonance signals in the presence of strong radio frequency interference.</title>
+<pages>3645-3648</pages>
+<year>2008</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2008.4518442</ee>
+<crossref>conf/icassp/2008</crossref>
+<url>db/conf/icassp/icassp2008.html#SomasundaramJRSBA08</url>
+</inproceedings>
+</r>
+<r><article key="journals/tgrs/SomasundaramJSA07" mdate="2020-05-12">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="59/6822">John A. S. Smith</author>
+<author pid="53/4315">Kaspar Althoefer</author>
+<title>Exploiting Spin Echo Decay in the Detection of Nuclear Quadrupole Resonance Signals.</title>
+<pages>925-933</pages>
+<year>2007</year>
+<volume>45</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TGRS.2006.890413</ee>
+<url>db/journals/tgrs/tgrs45.html#SomasundaramJSA07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdsp/SomasundaramJBR07" mdate="2021-02-09">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author pid="19/928">Andreas Jakobsson</author>
+<author pid="51/1875">Naveed R. Butt</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<author pid="53/4315">Kaspar Althoefer</author>
+<title>Detection of Stochastic Nuclear Quadrupole Resonance Signals.</title>
+<pages>367-370</pages>
+<year>2007</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2007.4288595</ee>
+<crossref>conf/icdsp/2007</crossref>
+<url>db/conf/icdsp/icdsp2007.html#SomasundaramJBR07</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsp/JakobssonMRS06" mdate="2020-03-10">
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="35/4633">Magnus Mossberg</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Exploiting temperature dependency in the detection of NQR signals.</title>
+<pages>1610-1616</pages>
+<year>2006</year>
+<volume>54</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSP.2006.871969</ee>
+<url>db/journals/tsp/tsp54.html#JakobssonMRS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/eusipco/SomasundaramJS06" mdate="2021-08-09">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author pid="19/928">Andreas Jakobsson</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Frequency selective detection of NQR signals in the presence of multiple polymorphic forms.</title>
+<pages>1-5</pages>
+<year>2006</year>
+<booktitle>EUSIPCO</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7071186/</ee>
+<crossref>conf/eusipco/2006</crossref>
+<url>db/conf/eusipco/eusipco2006.html#SomasundaramJS06</url>
+</inproceedings>
+</r>
+<r><article key="journals/tgrs/JakobssonMRS05" mdate="2020-05-12">
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="35/4633">Magnus Mossberg</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Frequency-selective detection of nuclear quadrupole resonance signals.</title>
+<pages>2659-2665</pages>
+<year>2005</year>
+<volume>43</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TGRS.2005.856633</ee>
+<url>db/journals/tgrs/tgrs43.html#JakobssonMRS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/clawar/SomasundaramASS05" mdate="2017-05-24">
+<author pid="95/3445">Samuel Dilshan Somasundaram</author>
+<author pid="53/4315">Kaspar Althoefer</author>
+<author pid="59/6822">John A. S. Smith</author>
+<author pid="44/6011">Lakmal D. Seneviratne</author>
+<title>Detection of Landmines Using Nuclear Quadrupole Resonance (NQR): Signal Processing to Aid Classification.</title>
+<pages>833-840</pages>
+<year>2005</year>
+<booktitle>CLAWAR</booktitle>
+<ee>https://doi.org/10.1007/3-540-26415-9_100</ee>
+<crossref>conf/clawar/2005</crossref>
+<url>db/conf/clawar/clawar2005.html#SomasundaramASS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/JakobssonMRS05" mdate="2020-06-22">
+<author orcid="0000-0002-2156-6973" pid="19/928">Andreas Jakobsson</author>
+<author pid="35/4633">Magnus Mossberg</author>
+<author pid="36/4710">Michael D. Rowe</author>
+<author pid="59/6822">John A. S. Smith</author>
+<title>Exploiting temperature dependency in the detection of NQR signals [land mine detection applications].</title>
+<pages>653-656</pages>
+<year>2005</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2005.1416093</ee>
+<crossref>conf/icassp/2005</crossref>
+<url>db/conf/icassp/icassp2005.html#JakobssonMRS05</url>
+</inproceedings>
+</r>
+<coauthors n="9" nc="1">
+<co c="0"><na f="a/Althoefer:Kaspar" pid="53/4315">Kaspar Althoefer</na></co>
+<co c="0"><na f="b/Butt:Naveed_R=" pid="51/1875">Naveed R. Butt</na></co>
+<co c="0"><na f="g/Gudmundson:Erik" pid="12/2421">Erik Gudmundson</na></co>
+<co c="0"><na f="j/Jakobsson:Andreas" pid="19/928">Andreas Jakobsson</na></co>
+<co c="0"><na f="m/Mossberg:Magnus" pid="35/4633">Magnus Mossberg</na></co>
+<co c="0"><na f="p/Poplett:Iain_J=_F=" pid="77/8056">Iain J. F. Poplett</na></co>
+<co c="0"><na f="r/Rowe:Michael_D=" pid="36/4710">Michael D. Rowe</na></co>
+<co c="0"><na f="s/Seneviratne:Lakmal_D=" pid="44/6011">Lakmal D. Seneviratne</na></co>
+<co c="0"><na f="s/Somasundaram:Samuel_Dilshan" pid="95/3445">Samuel Dilshan Somasundaram</na></co>
+</coauthors>
+</dblpperson>
+

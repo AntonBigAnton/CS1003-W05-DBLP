@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<dblpperson name="John W. Smith" pid="64/6778" n="4">
+<person key="homepages/64/6778" mdate="2009-06-10">
+<author pid="64/6778">John W. Smith</author>
+</person>
+<r><inproceedings key="conf/siguccs/Smith97" mdate="2018-11-06">
+<author pid="64/6778">John W. Smith</author>
+<title>Making standards work: a &#34;whole-product approach&#34;.</title>
+<pages>283-290</pages>
+<year>1997</year>
+<crossref>conf/siguccs/1997</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>https://doi.org/10.1145/266064.266152</ee>
+<url>db/conf/siguccs/siguccs1997.html#Smith97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siguccs/Smith94" mdate="2018-11-06">
+<author pid="64/6778">John W. Smith</author>
+<title>User's guide for the Shadowy Crystal Ball: practical tips and techniques for planning the future.</title>
+<pages>41-47</pages>
+<year>1994</year>
+<crossref>conf/siguccs/1994</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>https://doi.org/10.1145/196355.196400</ee>
+<url>db/conf/siguccs/siguccs1994.html#Smith94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siguccs/HaskettSTS91" mdate="2018-11-06">
+<author pid="62/1733">James A. Haskett</author>
+<author pid="64/6778">John W. Smith</author>
+<author pid="65/5295">George Town</author>
+<author pid="86/7026">Susan F. Stager</author>
+<title>Practical management of computer ethics: computer center and computer science department approaches.</title>
+<pages>25-31</pages>
+<year>1991</year>
+<crossref>conf/siguccs/1991</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>https://doi.org/10.1145/122898.122902</ee>
+<url>db/conf/siguccs/siguccs1991.html#HaskettSTS91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siguccs/Smith90a" mdate="2018-11-06">
+<author pid="64/6778">John W. Smith</author>
+<title>The interaction of technology, economics, &#38; culture as a basis for understanding academic computing support needs.</title>
+<pages>351-354</pages>
+<year>1990</year>
+<crossref>conf/siguccs/1990</crossref>
+<booktitle>SIGUCCS</booktitle>
+<ee>https://doi.org/10.1145/99186.99262</ee>
+<url>db/conf/siguccs/siguccs1990.html#Smith90a</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="h/Haskett:James_A=" pid="62/1733">James A. Haskett</na></co>
+<co c="0"><na f="s/Stager:Susan_F=" pid="86/7026">Susan F. Stager</na></co>
+<co c="0"><na f="t/Town:George" pid="65/5295">George Town</na></co>
+</coauthors>
+</dblpperson>
+

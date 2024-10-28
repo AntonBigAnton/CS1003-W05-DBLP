@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<dblpperson name="John D. Smith" pid="35/478" n="10">
+<person key="homepages/35/478" mdate="2009-06-09">
+<author pid="35/478">John D. Smith</author>
+</person>
+<r><article key="journals/sensors/SmithG21" mdate="2021-04-09">
+<author pid="35/478">John D. Smith</author>
+<author orcid="0000-0002-0161-4616" pid="233/4845">Gary Guerra</author>
+<title>Quantifying Step Count and Oxygen Consumption with Portable Technology during the 2-Min Walk Test in People with Lower Limb Amputation.</title>
+<pages>2080</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s21062080</ee>
+<url>db/journals/sensors/sensors21.html#SmithG21</url>
+</article>
+</r>
+<r><article key="journals/sensors/GuerraS21" mdate="2021-12-15">
+<author orcid="0000-0002-0161-4616" pid="233/4845">Gary Guerra</author>
+<author pid="35/478">John D. Smith</author>
+<title>Correlates of Balance and Aerobic Indices in Lower-Limb Prostheses Users on Arm Crank Exercise.</title>
+<pages>6917</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>20</number>
+<ee type="oa">https://doi.org/10.3390/s21206917</ee>
+<url>db/journals/sensors/sensors21.html#GuerraS21</url>
+</article>
+</r>
+<r><article key="journals/ijebm/ChenSM08" mdate="2022-02-28">
+<author pid="91/5279">Injazz J. Chen</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="130/6857">Richard J. Miller</author>
+<title>Electronic Reverse Auction (e-RA) and Supply Chain Management: A Blessing or a Curse.</title>
+<pages>80-92</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>Int. J. Electron. Bus. Manag.</journal>
+<number>2</number>
+<ee type="archive">http://ijebm.ie.nthu.edu.tw/IJEBM_Web/IJEBM_static/Paper-V6_N2/A03.pdf</ee>
+<url>db/journals/ijebm/ijebm6.html#ChenSM08</url>
+</article>
+</r>
+<r><article key="journals/elearn/SmithT06" mdate="2020-09-08">
+<author pid="35/478">John D. Smith</author>
+<author pid="69/620">Beverly Trayner</author>
+<title>Online course design from a communities-of-practice perspective.</title>
+<pages>3</pages>
+<year>2006</year>
+<volume>2006</volume>
+<journal>eLearn Mag.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1145/1165348.1165354</ee>
+<url>db/journals/elearn/elearn2006.html#SmithT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/webist/TraynerSB06" mdate="2006-09-18">
+<author pid="69/620">Beverly Trayner</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="01/4839">Marco C. Bettoni</author>
+<title>Participation in International Virtual Learning Communities - A Social Learning Perspective.</title>
+<pages>229-236</pages>
+<year>2006</year>
+<crossref>conf/webist/2006-2</crossref>
+<booktitle>WEBIST (2)</booktitle>
+<url>db/conf/webist/webist2006-2.html#TraynerSB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webist/TraynerSB06a" mdate="2017-05-21">
+<author pid="69/620">Beverly Trayner</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="01/4839">Marco C. Bettoni</author>
+<title>Participation in International Virtual Learning Communities.</title>
+<pages>402-413</pages>
+<year>2006</year>
+<crossref>conf/webist/2006sp</crossref>
+<booktitle>WEBIST (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74063-6_32</ee>
+<url>db/conf/webist/webist2006sp.html#TraynerSB06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uist/SmithVS05" mdate="2018-11-06">
+<author pid="35/478">John D. Smith</author>
+<author pid="09/588">Roel Vertegaal</author>
+<author pid="24/4779">Changuk Sohn</author>
+<title>ViewPointer: lightweight calibration-free eye tracking for ubiquitous handsfree deixis.</title>
+<pages>53-61</pages>
+<year>2005</year>
+<crossref>conf/uist/2005</crossref>
+<booktitle>UIST</booktitle>
+<ee>https://doi.org/10.1145/1095034.1095043</ee>
+<url>db/conf/uist/uist2005.html#SmithVS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/CourniaSD03" mdate="2018-11-06">
+<author pid="10/6492">Nathan Cournia</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="66/3798">Andrew T. Duchowski</author>
+<title>Gaze- vs. hand-based pointing in virtual environments.</title>
+<pages>772-773</pages>
+<year>2003</year>
+<crossref>conf/chi/2003a</crossref>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/765891.765982</ee>
+<url>db/conf/chi/chi2003a.html#CourniaSD03</url>
+</inproceedings>
+</r>
+<r><article key="journals/nca/YuSM96" mdate="2021-10-14">
+<author orcid="0000-0001-8093-9787" pid="78/4802">Xinghuo Yu 0001</author>
+<author pid="35/478">John D. Smith</author>
+<author orcid="0000-0002-5620-3232" pid="06/1381">Masoud Mohammadian</author>
+<title>Automated Fuzzy Knowledge Acquisition with Connectionist Adaptation.</title>
+<pages>27-24</pages>
+<year>1996</year>
+<volume>4</volume>
+<journal>Neural Comput. Appl.</journal>
+<number>1</number>
+<url>db/journals/nca/nca4.html#YuSM96</url>
+<ee>https://doi.org/10.1007/BF01413867</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ausai/HegartySH88" mdate="2017-05-19">
+<author pid="87/3869">Maree Hegarty</author>
+<author pid="35/478">John D. Smith</author>
+<author pid="60/2819">David Hamilton</author>
+<title>Herbicide Advisory Systems: Weeds in Wheat and other Crops.</title>
+<pages>14-29</pages>
+<year>1988</year>
+<crossref>conf/ausai/1988</crossref>
+<booktitle>Australian Joint Conference on Artificial Intelligence</booktitle>
+<url>db/conf/ausai/ausai1988.html#HegartySH88</url>
+<ee>https://doi.org/10.1007/3-540-52062-7_67</ee>
+</inproceedings>
+</r>
+<coauthors n="13" nc="5">
+<co c="2"><na f="b/Bettoni:Marco_C=" pid="01/4839">Marco C. Bettoni</na></co>
+<co c="1"><na f="c/Chen:Injazz_J=" pid="91/5279">Injazz J. Chen</na></co>
+<co c="0"><na f="c/Cournia:Nathan" pid="10/6492">Nathan Cournia</na></co>
+<co c="0"><na f="d/Duchowski:Andrew_T=" pid="66/3798">Andrew T. Duchowski</na></co>
+<co c="-1"><na f="g/Guerra:Gary" pid="233/4845">Gary Guerra</na></co>
+<co c="4"><na f="h/Hamilton:David" pid="60/2819">David Hamilton</na></co>
+<co c="4"><na f="h/Hegarty:Maree" pid="87/3869">Maree Hegarty</na></co>
+<co c="1"><na f="m/Miller:Richard_J=" pid="130/6857">Richard J. Miller</na></co>
+<co c="3"><na f="m/Mohammadian:Masoud" pid="06/1381">Masoud Mohammadian</na></co>
+<co c="0"><na f="s/Sohn:Changuk" pid="24/4779">Changuk Sohn</na></co>
+<co c="2"><na f="t/Trayner:Beverly" pid="69/620">Beverly Trayner</na></co>
+<co c="0"><na f="v/Vertegaal:Roel" pid="09/588">Roel Vertegaal</na></co>
+<co c="3"><na f="y/Yu_0001:Xinghuo" pid="78/4802">Xinghuo Yu 0001</na></co>
+</coauthors>
+</dblpperson>
+

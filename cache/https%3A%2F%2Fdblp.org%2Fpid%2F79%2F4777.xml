@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<dblpperson name="John H. Smith" pid="79/4777" n="6">
+<person key="homepages/79/4777" mdate="2009-06-10">
+<author pid="79/4777">John H. Smith</author>
+</person>
+<r><article key="journals/isci/SmithB22" mdate="2022-08-16">
+<author pid="79/4777">John H. Smith</author>
+<author pid="132/5837">Nathaniel D. Bastian</author>
+<title>A ranked solution for social media fact checking using epidemic spread modeling.</title>
+<pages>550-563</pages>
+<year>2022</year>
+<volume>589</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2022.01.002</ee>
+<ee>https://www.wikidata.org/entity/Q113295107</ee>
+<url>db/journals/isci/isci589.html#SmithB22</url>
+</article>
+</r>
+<r><article key="journals/jct/Smith11" mdate="2021-02-16">
+<author pid="79/4777">John H. Smith</author>
+<title>Corrigendum to &#34;Factoring, into edge transpositions of a tree, permutations fixing a terminal vertex&#34; [J. Combin. Theory Ser. A 85 (1) (1999) 92-95].</title>
+<pages>726-727</pages>
+<year>2011</year>
+<volume>118</volume>
+<journal>J. Comb. Theory, Ser. A</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/j.jcta.2010.08.007</ee>
+<url>db/journals/jct/jcta118.html#Smith11</url>
+</article>
+</r>
+<r><article key="journals/tamm/DeutschSS08" mdate="2020-06-18">
+<author pid="25/4984">Emeric Deutsch</author>
+<author pid="79/4777">John H. Smith</author>
+<author pid="126/7477">Albert Stadler</author>
+<title>An Equality for Parts in Partitions of n: 11237.</title>
+<pages>666-667</pages>
+<year>2008</year>
+<volume>115</volume>
+<journal>Am. Math. Mon.</journal>
+<number>7</number>
+<ee>http://www.jstor.org/stable/27642572</ee>
+<url>db/journals/tamm/tamm115.html#DeutschSS08</url>
+</article>
+</r>
+<r><article key="journals/tamm/MazurHABELNS00" mdate="2020-06-18">
+<author pid="127/2060">Marcin Mazur</author>
+<author pid="127/1987">Kit Hanes</author>
+<author pid="127/3836">Jean Anglesio</author>
+<author pid="158/2045">M. Benedicty</author>
+<author pid="67/5036">Shalosh B. Ekhad</author>
+<author pid="93/5982">N. Lakshmanan</author>
+<author pid="41/821">Albert Nijenhuis</author>
+<author pid="79/4777">John H. Smith</author>
+<title>Tangent Lines and Collinear Points: 10673.</title>
+<pages>180-181</pages>
+<year>2000</year>
+<volume>107</volume>
+<journal>Am. Math. Mon.</journal>
+<number>2</number>
+<ee>http://www.jstor.org/stable/2589454</ee>
+<url>db/journals/tamm/tamm107.html#MazurHABELNS00</url>
+</article>
+</r>
+<r><article key="journals/jct/Smith99" mdate="2021-02-16">
+<author pid="79/4777">John H. Smith</author>
+<title>Factoring, into Edge Transpositions of a Tree, Permutations Fixing a Terminal Vertex.</title>
+<pages>92-95</pages>
+<year>1999</year>
+<volume>85</volume>
+<journal>J. Comb. Theory, Ser. A</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1006/jcta.1998.2905</ee>
+<url>db/journals/jct/jcta85.html#Smith99</url>
+</article>
+</r>
+<r><inproceedings key="conf/hci/SmithBSA97" mdate="2016-12-06">
+<author pid="79/4777">John H. Smith</author>
+<author pid="23/3661">Antoinette Derjani Bayeh</author>
+<author pid="26/2737-1">Michael J. Smith 0001</author>
+<author pid="25/5154">G. Al-Fallati</author>
+<title>Ergonomic Systems Engineering: The Human Interface and the Management of International Relations in the 21st Century.</title>
+<pages>185-188</pages>
+<year>1997</year>
+<crossref>conf/hci/1997-1</crossref>
+<booktitle>HCI (1)</booktitle>
+<url>db/conf/hci/hci1997-1.html#SmithBSA97</url>
+</inproceedings>
+</r>
+<coauthors n="13" nc="2">
+<co c="1"><na f="a/Al=Fallati:G=" pid="25/5154">G. Al-Fallati</na></co>
+<co c="0"><na f="a/Anglesio:Jean" pid="127/3836">Jean Anglesio</na></co>
+<co c="-1"><na f="b/Bastian:Nathaniel_D=" pid="132/5837">Nathaniel D. Bastian</na></co>
+<co c="1"><na f="b/Bayeh:Antoinette_Derjani" pid="23/3661">Antoinette Derjani Bayeh</na></co>
+<co c="0"><na f="b/Benedicty:M=" pid="158/2045">M. Benedicty</na></co>
+<co c="0"><na f="d/Deutsch:Emeric" pid="25/4984">Emeric Deutsch</na></co>
+<co c="0"><na f="e/Ekhad:Shalosh_B=" pid="67/5036">Shalosh B. Ekhad</na></co>
+<co c="0"><na f="h/Hanes:Kit" pid="127/1987">Kit Hanes</na></co>
+<co c="0"><na f="l/Lakshmanan:N=" pid="93/5982">N. Lakshmanan</na></co>
+<co c="0"><na f="m/Mazur:Marcin" pid="127/2060">Marcin Mazur</na></co>
+<co c="0"><na f="n/Nijenhuis:Albert" pid="41/821">Albert Nijenhuis</na></co>
+<co c="1"><na f="s/Smith_0001:Michael_J=" pid="26/2737-1">Michael J. Smith 0001</na></co>
+<co c="0"><na f="s/Stadler:Albert" pid="126/7477">Albert Stadler</na></co>
+</coauthors>
+</dblpperson>
+

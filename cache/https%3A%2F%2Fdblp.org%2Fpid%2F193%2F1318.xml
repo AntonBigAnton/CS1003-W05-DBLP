@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<dblpperson name="John F. Smith" pid="193/1318" n="2">
+<person key="homepages/193/1318" mdate="2017-01-13">
+<author pid="193/1318">John F. Smith</author>
+</person>
+<r><inproceedings key="conf/icls/ZivicSRENM18" mdate="2021-05-06">
+<author pid="291/5812">Aliza Zivic</author>
+<author pid="193/1318">John F. Smith</author>
+<author pid="79/1949">Brian J. Reiser</author>
+<author pid="225/2408">Kelsey Edwards</author>
+<author pid="43/3622">Michael Novak</author>
+<author pid="291/5818">Tara McGill</author>
+<title>Negotiating Epistemic Agency and Target Learning Goals: Supporting Coherence from the Students' Perspective.</title>
+<year>2018</year>
+<booktitle>ICLS</booktitle>
+<ee type="oa">https://repository.isls.org/handle/1/519</ee>
+<crossref>conf/icls/2018</crossref>
+<url>db/conf/icls/icls2018.html#ZivicSRENM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/ReimersS16" mdate="2017-05-23">
+<author pid="193/0932">Ann Reimers</author>
+<author pid="193/1318">John F. Smith</author>
+<title>Enriching an informal engineering education program with social relevance and history for middle school girls.</title>
+<pages>1-4</pages>
+<year>2016</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2016.7757730</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757730</ee>
+<crossref>conf/fie/2016</crossref>
+<url>db/conf/fie/fie2016.html#ReimersS16</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="e/Edwards:Kelsey" pid="225/2408">Kelsey Edwards</na></co>
+<co c="0"><na f="m/McGill:Tara" pid="291/5818">Tara McGill</na></co>
+<co c="0"><na f="n/Novak:Michael" pid="43/3622">Michael Novak</na></co>
+<co c="-1"><na f="r/Reimers:Ann" pid="193/0932">Ann Reimers</na></co>
+<co c="0"><na f="r/Reiser:Brian_J=" pid="79/1949">Brian J. Reiser</na></co>
+<co c="0"><na f="z/Zivic:Aliza" pid="291/5812">Aliza Zivic</na></co>
+</coauthors>
+</dblpperson>
+

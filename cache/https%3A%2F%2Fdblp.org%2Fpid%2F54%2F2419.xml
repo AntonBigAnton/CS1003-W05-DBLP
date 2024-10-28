@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<dblpperson name="Michael John Sebastian Smith" pid="54/2419" n="3">
+<person key="homepages/54/2419" mdate="2009-06-09">
+<author pid="54/2419">Michael John Sebastian Smith</author>
+</person>
+<r><inproceedings key="conf/fccm/FallsideS00" mdate="2017-05-21">
+<author pid="00/6797">Hamish Fallside</author>
+<author pid="54/2419">Michael John Sebastian Smith</author>
+<title>Internet Connected FPGAs.</title>
+<pages>289-290</pages>
+<year>2000</year>
+<crossref>conf/fccm/2000</crossref>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FPGA.2000.903421</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPGA.2000.903421</ee>
+<url>db/conf/fccm/fccm2000.html#FallsideS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpl/FallsideS00" mdate="2017-05-21">
+<author pid="00/6797">Hamish Fallside</author>
+<author pid="54/2419">Michael John Sebastian Smith</author>
+<title>Internet Connected FPL.</title>
+<pages>48-57</pages>
+<ee>https://doi.org/10.1007/3-540-44614-1_6</ee>
+<year>2000</year>
+<crossref>conf/fpl/2000</crossref>
+<booktitle>FPL</booktitle>
+<url>db/conf/fpl/fpl2000.html#FallsideS00</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0090374" mdate="2011-04-26">
+<author pid="54/2419">Michael John Sebastian Smith</author>
+<title>Application-specific integrated circuits.</title>
+<pages>I-XIV, 1-1026</pages>
+<publisher>Addison-Wesley</publisher>
+<year>1997</year>
+<isbn>978-0-201-50022-6</isbn>
+</book>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="f/Fallside:Hamish" pid="00/6797">Hamish Fallside</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="89317">logic*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.55</time>
+<completions total="7" computed="7" sent="0">
+</completions>
+<hits total="142" computed="100" sent="40" first="0">
+<hit score="1" id="55">
+<info><venue>ACM International Conference on International Agent Technology (IAT)</venue><acronym>IAT</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/iat/</url></info>
+<url>URL#55</url>
+</hit>
+<hit score="1" id="156">
+<info><venue>ACM Transactions on Computational Logic (TOCL)</venue><acronym>TOCL</acronym><type>Journal</type><url>https://dblp.org/db/journals/tocl/</url></info>
+<url>URL#156</url>
+</hit>
+<hit score="1" id="212">
+<info><venue>ACM/IEEE Symposium on Logic in Computer Science (LICS)</venue><acronym>LICS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/lics/</url></info>
+<url>URL#212</url>
+</hit>
+<hit score="1" id="239">
+<info><venue>APPIA-GULP-PRODE Joint Conference on Declarative Programming (AGP)</venue><acronym>AGP</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/agp/</url></info>
+<url>URL#239</url>
+</hit>
+<hit score="1" id="325">
+<info><venue>Advances in Logic</venue><type>Series</type><url>https://dblp.org/db/series/al/</url></info>
+<url>URL#325</url>
+</hit>
+<hit score="1" id="328">
+<info><venue>Advances in Modal Logic (AiML)</venue><acronym>AiML</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/aiml/</url></info>
+<url>URL#328</url>
+</hit>
+<hit score="1" id="360">
+<info><venue>Algebraic Logic and Universal Algebra in Computer Science</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/aluacs/</url></info>
+<url>URL#360</url>
+</hit>
+<hit score="1" id="401">
+<info><venue>Annals of Pure and Applied Logic</venue><type>Journal</type><url>https://dblp.org/db/journals/apal/</url></info>
+<url>URL#401</url>
+</hit>
+<hit score="1" id="407">
+<info><venue>Annual Conference for Computer Science Logic (CSL)</venue><acronym>CSL</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/csl/</url></info>
+<url>URL#407</url>
+</hit>
+<hit score="1" id="489">
+<info><venue>Archive for Mathematical Logic</venue><type>Journal</type><url>https://dblp.org/db/journals/aml/</url></info>
+<url>URL#489</url>
+</hit>
+<hit score="1" id="513">
+<info><venue>Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY)</venue><acronym>OVERLAY</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/overlay/</url></info>
+<url>URL#513</url>
+</hit>
+<hit score="1" id="626">
+<info><venue>Austrian Conference on Artificial Intelligence (ÖGAI)</venue><acronym>ÖGAI</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/ogai/</url></info>
+<url>URL#626</url>
+</hit>
+<hit score="1" id="1088">
+<info><venue>Conference on Computer Logic</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/colog/</url></info>
+<url>URL#1088</url>
+</hit>
+<hit score="1" id="1195">
+<info><venue>Conférence francophone sur les Architectures Logicielles (CAL)</venue><acronym>CAL</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/cal/</url></info>
+<url>URL#1195</url>
+</hit>
+<hit score="1" id="1200">
+<info><venue>Congress on Logic Applied to Technology (LAPTEC)</venue><acronym>LAPTEC</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/laptec/</url></info>
+<url>URL#1200</url>
+</hit>
+<hit score="1" id="1207">
+<info><venue>Constraints in Computational Logics (CCL)</venue><acronym>CCL</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/ccl/</url></info>
+<url>URL#1207</url>
+</hit>
+<hit score="1" id="1417">
+<info><venue>Dynamic Logic. New Trends and Applications (DaLí)</venue><acronym>DaLí</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/dali/</url></info>
+<url>URL#1417</url>
+</hit>
+<hit score="1" id="1448">
+<info><venue>ERCIM Annual Workshop on Constraint Solving and Constraint Logic Programming (CSCLP)</venue><acronym>CSCLP</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/csclp/</url></info>
+<url>URL#1448</url>
+</hit>
+<hit score="1" id="1617">
+<info><venue>European Conference on Logics in Artificial Intelligence (JELIA)</venue><acronym>JELIA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/jelia/</url></info>
+<url>URL#1617</url>
+</hit>
+<hit score="1" id="1681">
+<info><venue>European Society for Fuzzy Logic and Technology (EUSFLAT)</venue><acronym>EUSFLAT</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/eusflat/</url></info>
+<url>URL#1681</url>
+</hit>
+<hit score="1" id="1686">
+<info><venue>European Summer School in Logic, Language and Information (ESSLLI)</venue><acronym>ESSLLI</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/esslli/</url></info>
+<url>URL#1686</url>
+</hit>
+<hit score="1" id="1742">
+<info><venue>Extensions of Logic Programming (ELP)</venue><acronym>ELP</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/elp/</url></info>
+<url>URL#1742</url>
+</hit>
+<hit score="1" id="1769">
+<info><venue>Federated Logic Conference (FLoC)</venue><acronym>FLoC</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/floc/</url></info>
+<url>URL#1769</url>
+</hit>
+<hit score="1" id="1834">
+<info><venue>Foundations of Logic and Functional Programming</venue><type>Conference or Workshop</type><url>https://dblp.org/db/conf/flfp/</url></info>
+<url>URL#1834</url>
+</hit>
+<hit score="1" id="1990">
+<info><venue>Handbook of the History of Logic</venue><type>Series</type><url>https://dblp.org/db/series/hhl/</url></info>
+<url>URL#1990</url>
+</hit>
+<hit score="1" id="2016">
+<info><venue>Higher-Order Algebra, Logic and Term Rewriting (HOA)</venue><acronym>HOA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/hoa/</url></info>
+<url>URL#2016</url>
+</hit>
+<hit score="1" id="2085">
+<info><venue>IEEE Annual Symposium on Foundations of Computer Science (FOCS)</venue><acronym>FOCS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/focs/</url></info>
+<url>URL#2085</url>
+</hit>
+<hit score="1" id="2262">
+<info><venue>IEEE International Symposium on Multiple-Valued Logic (ISMVL)</venue><acronym>ISMVL</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/ismvl/</url></info>
+<url>URL#2262</url>
+</hit>
+<hit score="1" id="2376">
+<info><venue>IEEE Symposium on Type-2 Fuzzy Logic Systems (T2FUZZ)</venue><acronym>T2FUZZ</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/t2fuzz/</url></info>
+<url>URL#2376</url>
+</hit>
+<hit score="1" id="2644">
+<info><venue>IfCoLog Journal of Logics and their Applications</venue><type>Journal</type><url>https://dblp.org/db/journals/flap/</url></info>
+<url>URL#2644</url>
+</hit>
+<hit score="1" id="2659">
+<info><venue>Indian Conference on Logic and Its Applications (ICLA)</venue><acronym>ICLA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/icla/</url></info>
+<url>URL#2659</url>
+</hit>
+<hit score="1" id="2669">
+<info><venue>Infinity in Logic and Computation (ILC)</venue><acronym>ILC</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/ilc/</url></info>
+<url>URL#2669</url>
+</hit>
+<hit score="1" id="2837">
+<info><venue>International Colloquium on Automata, Languages and Programming (ICALP)</venue><acronym>ICALP</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/icalp/</url></info>
+<url>URL#2837</url>
+</hit>
+<hit score="1" id="2891">
+<info><venue>International Conference on  Logic and Argumentation (CLAR)</venue><acronym>CLAR</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/clar/</url></info>
+<url>URL#2891</url>
+</hit>
+<hit score="1" id="2965">
+<info><venue>International Conference on Algebraic and Logic Programming (ALP)</venue><acronym>ALP</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/alp/</url></info>
+<url>URL#2965</url>
+</hit>
+<hit score="1" id="3000">
+<info><venue>International Conference on Artificial Intelligence Logic and Applications (AILA)</venue><acronym>AILA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/aila/</url></info>
+<url>URL#3000</url>
+</hit>
+<hit score="1" id="3172">
+<info><venue>International Conference on Computational Logic (CL)</venue><acronym>CL</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/cl/</url></info>
+<url>URL#3172</url>
+</hit>
+<hit score="1" id="3188">
+<info><venue>International Conference on Computer Aided Verification (CAV)</venue><acronym>CAV</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/cav/</url></info>
+<url>URL#3188</url>
+</hit>
+<hit score="1" id="3335">
+<info><venue>International Conference on Database and Expert Systems Applications (DEXA)</venue><acronym>DEXA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/dexa/</url></info>
+<url>URL#3335</url>
+</hit>
+<hit score="1" id="3341">
+<info><venue>International Conference on Deontic Logic and Normative Systems (DEON)</venue><acronym>DEON</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/deon/</url></info>
+<url>URL#3341</url>
+</hit>
+</hits>
+</result>

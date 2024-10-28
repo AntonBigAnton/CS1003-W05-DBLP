@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<dblpperson name="John M. Smith" pid="91/4205" n="3">
+<person key="homepages/91/4205" mdate="2009-06-10">
+<author pid="91/4205">John M. Smith</author>
+</person>
+<r><inproceedings key="conf/fpga/PauerFSM00" mdate="2018-11-06">
+<author pid="92/2041">Eric K. Pauer</author>
+<author pid="27/2495">Paul D. Fiore</author>
+<author pid="91/4205">John M. Smith</author>
+<author pid="50/6694">Cory S. Myers</author>
+<title>Algorithm analysis and mapping environment for adaptive computing systems (poster abstract).</title>
+<pages>217</pages>
+<year>2000</year>
+<crossref>conf/fpga/2000</crossref>
+<booktitle>FPGA</booktitle>
+<ee>https://doi.org/10.1145/329166.329209</ee>
+<url>db/conf/fpga/fpga2000.html#PauerFSM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fccm/PauerFS99" mdate="2017-05-21">
+<author pid="92/2041">Eric K. Pauer</author>
+<author pid="27/2495">Paul D. Fiore</author>
+<author pid="91/4205">John M. Smith</author>
+<title>Algorithm Analysis and Mapping Environment for Adaptive Computing Systems: Further Results.</title>
+<pages>264-265</pages>
+<year>1999</year>
+<crossref>conf/fccm/1999</crossref>
+<booktitle>FCCM</booktitle>
+<ee>https://doi.org/10.1109/FPGA.1999.803690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FPGA.1999.803690</ee>
+<url>db/conf/fccm/fccm1999.html#PauerFS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/ChooSN91" mdate="2019-02-14">
+<author pid="81/2068">Chang Y. Choo</author>
+<author pid="91/4205">John M. Smith</author>
+<author pid="45/4884">Nasser M. Nasrabadi</author>
+<title>An efficient terrain acquisition algorithm for a mobile robot.</title>
+<pages>306-311</pages>
+<year>1991</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.1991.131593</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ROBOT.1991.131593</ee>
+<crossref>conf/icra/1991</crossref>
+<url>db/conf/icra/icra1991.html#ChooSN91</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="2">
+<co c="1"><na f="c/Choo:Chang_Y=" pid="81/2068">Chang Y. Choo</na></co>
+<co c="0"><na f="f/Fiore:Paul_D=" pid="27/2495">Paul D. Fiore</na></co>
+<co c="0"><na f="m/Myers:Cory_S=" pid="50/6694">Cory S. Myers</na></co>
+<co c="1"><na f="n/Nasrabadi:Nasser_M=" pid="45/4884">Nasser M. Nasrabadi</na></co>
+<co c="0"><na f="p/Pauer:Eric_K=" pid="92/2041">Eric K. Pauer</na></co>
+</coauthors>
+</dblpperson>
+

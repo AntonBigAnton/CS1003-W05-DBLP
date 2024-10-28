@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<dblpperson name="John V. Smith" pid="22/10421" n="2">
+<person key="homepages/22/10421" mdate="2011-11-09">
+<author pid="22/10421">John V. Smith</author>
+</person>
+<r><article key="journals/gandc/SmithB07" mdate="2020-02-21">
+<author orcid="0000-0002-3335-9488" pid="22/10421">John V. Smith</author>
+<author pid="73/10421">Eberhard Beermann</author>
+<title>Image analysis of plagioclase crystals in rock thin sections using grey level homogeneity recognition of discrete areas.</title>
+<pages>335-356</pages>
+<year>2007</year>
+<volume>33</volume>
+<journal>Comput. Geosci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.cageo.2005.11.010</ee>
+<url>db/journals/gandc/gandc33.html#SmithB07</url>
+</article>
+</r>
+<r><article key="journals/gandc/SmithB06" mdate="2020-02-21">
+<author orcid="0000-0002-3335-9488" pid="22/10421">John V. Smith</author>
+<author pid="73/10421">Eberhard Beermann</author>
+<title>Multivectors: Nine components represented on a ternary diagram.</title>
+<pages>326-338</pages>
+<year>2006</year>
+<volume>32</volume>
+<journal>Comput. Geosci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.cageo.2005.06.025</ee>
+<url>db/journals/gandc/gandc32.html#SmithB06</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="b/Beermann:Eberhard" pid="73/10421">Eberhard Beermann</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<dblpperson name="John A. Smith" pid="72/1096" n="2">
+<person key="homepages/72/1096" mdate="2009-06-09">
+<author pid="72/1096">John A. Smith</author>
+</person>
+<r><article key="journals/jbi/Tarczy-HornochMSH07" mdate="2021-02-16">
+<author orcid="0000-0003-1047-179X" pid="44/1004">Peter Tarczy-Hornoch</author>
+<author orcid="0000-0001-8186-4959" pid="33/3855">Mia K. Markey</author>
+<author pid="72/1096">John A. Smith</author>
+<author pid="62/5957">Tadaaki Hiruki</author>
+<title>Bio*Medical informatics and genomic medicine: Research and training.</title>
+<pages>1-4</pages>
+<year>2007</year>
+<volume>40</volume>
+<journal>J. Biomed. Informatics</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2006.10.002</ee>
+<ee>https://www.wikidata.org/entity/Q57282277</ee>
+<url>db/journals/jbi/jbi40.html#Tarczy-HornochMSH07</url>
+</article>
+</r>
+<r><inproceedings key="conf/ieaaie/SmithB89" mdate="2019-07-16">
+<author pid="72/1096">John A. Smith</author>
+<author pid="15/6242">Gautam Biswas</author>
+<title>Utilizing multilevel models and reasoning for diagnosis of a complex electro-mechanical system.</title>
+<pages>161-170</pages>
+<year>1989</year>
+<crossref>conf/ieaaie/1989-1</crossref>
+<booktitle>IEA/AIE (1)</booktitle>
+<ee>https://doi.org/10.1145/66617.66638</ee>
+<url>db/conf/ieaaie/ieaaie1989-1.html#SmithB89</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="-1"><na f="b/Biswas:Gautam" pid="15/6242">Gautam Biswas</na></co>
+<co c="0"><na f="h/Hiruki:Tadaaki" pid="62/5957">Tadaaki Hiruki</na></co>
+<co c="0"><na f="m/Markey:Mia_K=" pid="33/3855">Mia K. Markey</na></co>
+<co c="0"><na f="t/Tarczy=Hornoch:Peter" pid="44/1004">Peter Tarczy-Hornoch</na></co>
+</coauthors>
+</dblpperson>
+

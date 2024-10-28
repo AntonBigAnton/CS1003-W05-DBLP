@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<dblpperson name="Brendan John Smith" pid="284/2345" n="1">
+<person key="homepages/284/2345" mdate="2021-02-01">
+<author pid="284/2345">Brendan John Smith</author>
+</person>
+<r><article key="journals/midm/NicholasNSQST21" mdate="2022-10-02">
+<author pid="284/2135">Joanna Catherine Nicholas</author>
+<author orcid="0000-0001-7122-3795" pid="284/1626">Nikos Ntoumanis</author>
+<author pid="284/2345">Brendan John Smith</author>
+<author orcid="0000-0002-6211-9045" pid="284/2315">Eleanor Quested</author>
+<author pid="223/9707">Emmanuel Stamatakis</author>
+<author orcid="0000-0003-0255-1263" pid="284/1772">Cecilie Th&#248;gersen-Ntoumani</author>
+<title>Development and feasibility of a mobile phone application designed to support physically inactive employees to increase walking.</title>
+<pages>23</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>BMC Medical Informatics Decis. Mak.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12911-021-01391-3</ee>
+<url>db/journals/midm/midm21.html#NicholasNSQST21</url>
+</article>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="n/Nicholas:Joanna_Catherine" pid="284/2135">Joanna Catherine Nicholas</na></co>
+<co c="0"><na f="n/Ntoumanis:Nikos" pid="284/1626">Nikos Ntoumanis</na></co>
+<co c="0"><na f="q/Quested:Eleanor" pid="284/2315">Eleanor Quested</na></co>
+<co c="0"><na f="s/Stamatakis:Emmanuel" pid="223/9707">Emmanuel Stamatakis</na></co>
+<co c="0"><na f="t/Th=oslash=gersen=Ntoumani:Cecilie" pid="284/1772">Cecilie Th&#248;gersen-Ntoumani</na></co>
+</coauthors>
+</dblpperson>
+

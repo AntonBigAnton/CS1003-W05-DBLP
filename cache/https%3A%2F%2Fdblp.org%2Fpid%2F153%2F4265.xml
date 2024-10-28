@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<dblpperson name="John Maynard Smith" pid="153/4265" n="2">
+<person key="homepages/153/4265" mdate="2014-11-05">
+<author pid="153/4265">John Maynard Smith</author>
+</person>
+<r><book key="books/daglib/0033878" mdate="2014-11-05">
+<author pid="153/4265">John Maynard Smith</author>
+<author pid="81/8763">E&#246;rs Szathm&#225;ry</author>
+<title>The Major Transitions in Evolution.</title>
+<publisher>Oxford University Press</publisher>
+<year>1997</year>
+<isbn>978-0-19-850294-4</isbn>
+<ee>http://ukcatalogue.oup.com/product/9780198502944.do</ee>
+</book>
+</r>
+<r><book key="books/cu/Smith82" mdate="2019-07-25">
+<author pid="153/4265">John Maynard Smith</author>
+<title>Evolution and the Theory of Games</title>
+<pages>1-224</pages>
+<publisher>Cambridge University Press</publisher>
+<year>1982</year>
+<isbn>978-0-51180629-2</isbn>
+<ee>https://doi.org/10.1017/CBO9780511806292</ee>
+</book>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="s/Szathm=aacute=ry:E=ouml=rs" pid="81/8763">E&#246;rs Szathm&#225;ry</na></co>
+</coauthors>
+</dblpperson>
+

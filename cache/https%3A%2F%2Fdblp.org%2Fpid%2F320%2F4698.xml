@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dblpperson name="Smitha John" pid="320/4698" n="2">
+<person key="homepages/320/4698" mdate="2022-05-17">
+<author pid="320/4698">Smitha John</author>
+</person>
+<r><article key="journals/access/JohnR22" mdate="2022-06-02">
+<author orcid="0000-0001-5703-1690" pid="320/4698">Smitha John</author>
+<author pid="175/5909">V. G. Renumol</author>
+<title>Design and Development of an Android App (HanDex) to Enhance Hand Dexterity in Children With Poor Handwriting.</title>
+<pages>48973-48993</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3172330</ee>
+<url>db/journals/access/access10.html#JohnR22</url>
+</article>
+</r>
+<r><article key="journals/ijlt/JohnR22" mdate="2022-12-19">
+<author pid="320/4698">Smitha John</author>
+<author pid="175/5909">V. G. Renumol</author>
+<title>Improving a hand-therapeutic application for fine-motor skill development through usability evaluation.</title>
+<pages>191-222</pages>
+<year>2022</year>
+<volume>17</volume>
+<journal>Int. J. Learn. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJLT.2022.10052255</ee>
+<url>db/journals/ijlt/ijlt17.html#JohnR22</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1" n="2"><na f="g/G:Renumol_V=" pid="175/5909">Renumol V. G</na><na>V. G. Renumol</na></co>
+</coauthors>
+</dblpperson>
+

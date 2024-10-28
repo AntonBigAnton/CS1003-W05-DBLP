@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dblpperson name="Owen John Robert Smith" pid="187/1520" n="1">
+<person key="homepages/187/1520" mdate="2017-11-28">
+<author pid="187/1520">Owen John Robert Smith</author>
+<note type="affiliation">Queen's University Belfast, UK</note>
+</person>
+<r><phdthesis key="phd/ethos/Smith92a" mdate="2022-04-05">
+<author pid="187/1520">Owen John Robert Smith</author>
+<title>An experiment on integration of Hypertext within a multi-user text retrieval system.</title>
+<year>1992</year>
+<school>Queen's University Belfast, UK</school>
+<ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.317527</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+</r>
+</dblpperson>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<dblpperson name="Craig John Smith" pid="328/4914" n="1">
+<person key="homepages/328/4914" mdate="2022-09-07">
+<author pid="328/4914">Craig John Smith</author>
+</person>
+<r><article key="journals/informatics/SmithW22" mdate="2022-09-26">
+<author pid="328/4914">Craig John Smith</author>
+<author pid="328/5057">Andy T. C. Wong</author>
+<title>Advancements in Artificial Intelligence-Based Decision Support Systems for Improving Construction Project Sustainability: A Systematic Literature Review.</title>
+<pages>43</pages>
+<year>2022</year>
+<volume>9</volume>
+<journal>Informatics</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/informatics9020043</ee>
+<url>db/journals/informatics/informatics9.html#SmithW22</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="w/Wong:Andy_T=_C=" pid="328/5057">Andy T. C. Wong</na></co>
+</coauthors>
+</dblpperson>
+

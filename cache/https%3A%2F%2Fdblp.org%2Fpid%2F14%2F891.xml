@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<dblpperson name="Jack Cole" pid="14/891" n="7">
+<person key="homepages/14/891" mdate="2009-06-09">
+<author pid="14/891">Jack Cole</author>
+</person>
+<r><article key="journals/jbi/WongPCTLMLPAK21" mdate="2022-05-13">
+<author pid="77/5435">Mike Wong 0001</author>
+<author pid="233/3656">Paul Previde</author>
+<author pid="14/891">Jack Cole</author>
+<author pid="233/3809">Brook Thomas</author>
+<author pid="294/5162">Nayana Laxmeshwar</author>
+<author pid="173/1968">Emily K. Mallory</author>
+<author orcid="0000-0001-8198-2939" pid="81/11416">Jake Lever</author>
+<author pid="31/742">Dragutin Petkovic</author>
+<author pid="47/2081">Russ B. Altman</author>
+<author pid="k/AKulkarni1">Anagha Kulkarni 0001</author>
+<title>Search and visualization of gene-drug-disease interactions for pharmacogenomics and precision medicine research using GeneDive.</title>
+<pages>103732</pages>
+<year>2021</year>
+<volume>117</volume>
+<journal>J. Biomed. Informatics</journal>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2021.103732</ee>
+<url>db/journals/jbi/jbi117.html#WongPCTLMLPAK21</url>
+</article>
+</r>
+<r><inproceedings key="conf/imf/Cole08" mdate="2021-01-13">
+<author pid="14/891">Jack Cole</author>
+<title>Incident Management and Forensics Put in Context (Invited).</title>
+<pages>15-16</pages>
+<year>2008</year>
+<booktitle>IMF</booktitle>
+<crossref>conf/imf/2008</crossref>
+<url>db/conf/imf/imf2008.html#Cole08</url>
+<ee type="oa">https://dl.gi.de/20.500.12116/23594</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings140/article2291.html</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/Cole05a" mdate="2020-08-12">
+<author pid="14/891">Jack Cole</author>
+<title>Security in Storage: A Call for Participation.</title>
+<pages>103-105</pages>
+<year>2005</year>
+<volume>38</volume>
+<journal>Computer</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MC.2005.311</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2005.311</ee>
+<url>db/journals/computer/computer38.html#Cole05a</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/TheilhaberUMCXNHBB04" mdate="2020-03-15">
+<author pid="80/526">Joachim Theilhaber</author>
+<author pid="25/932">Anatoly Ulyanov</author>
+<author pid="89/4007">Anish Malanthara</author>
+<author pid="14/891">Jack Cole</author>
+<author pid="13/2069">Dapeng Xu</author>
+<author pid="76/4570">Robert Nahf</author>
+<author pid="64/3223">Michael Heuer</author>
+<author pid="22/4935">Christoph Brockel</author>
+<author pid="57/1340">Steven Bushnell</author>
+<title>GECKO: a complete large-scale gene expression analysis platform.</title>
+<pages>195</pages>
+<year>2004</year>
+<volume>5</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-5-195</ee>
+<ee>https://www.wikidata.org/entity/Q24792464</ee>
+<url>db/journals/bmcbi/bmcbi5.html#TheilhaberUMCXNHBB04</url>
+</article>
+</r>
+<r><article key="journals/computer/Cole04" mdate="2020-08-12">
+<author pid="14/891">Jack Cole</author>
+<title>Raising the Bar.</title>
+<pages>112-113</pages>
+<year>2004</year>
+<volume>37</volume>
+<journal>Computer</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/MC.2004.142</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2004.142</ee>
+<url>db/journals/computer/computer37.html#Cole04</url>
+</article>
+</r>
+<r><article key="journals/computer/HughesC03" mdate="2020-08-12">
+<author pid="90/3045">Jim Hughes</author>
+<author pid="14/891">Jack Cole</author>
+<title>Security in Storage.</title>
+<pages>124-125</pages>
+<year>2003</year>
+<volume>36</volume>
+<journal>Computer</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MC.2003.1160064</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2003.1160064</ee>
+<url>db/journals/computer/computer36.html#HughesC03</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/BushnellBCCDKCMSMU99" mdate="2020-03-02">
+<author pid="57/1340">Steven Bushnell</author>
+<author pid="32/6993">J. Budde</author>
+<author pid="49/5011">T. Catino</author>
+<author pid="14/891">Jack Cole</author>
+<author pid="09/5104">A. Derti</author>
+<author pid="27/5067">R. Kelso</author>
+<author pid="52/292">M. L. Collins</author>
+<author pid="10/1360">G. Molino</author>
+<author pid="64/2190">P. Sheridan</author>
+<author pid="21/3369">J. Monahan</author>
+<author pid="83/1837">M. Urdea</author>
+<title>ProbeDesigner: for the design of probesets for branched DNA (bDNA) signal amplification assays.</title>
+<pages>348-355</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>Bioinform.</journal>
+<number>5</number>
+<url>db/journals/bioinformatics/bioinformatics15.html#BushnellBCCDKCMSMU99</url>
+<ee>https://doi.org/10.1093/bioinformatics/15.5.348</ee>
+<ee>https://www.wikidata.org/entity/Q52212330</ee>
+</article>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="a/Altman:Russ_B=" pid="47/2081">Russ B. Altman</na></co>
+<co c="0"><na f="b/Brockel:Christoph" pid="22/4935">Christoph Brockel</na></co>
+<co c="0"><na f="b/Budde:J=" pid="32/6993">J. Budde</na></co>
+<co c="0"><na f="b/Bushnell:Steven" pid="57/1340">Steven Bushnell</na></co>
+<co c="0"><na f="c/Catino:T=" pid="49/5011">T. Catino</na></co>
+<co c="0"><na f="c/Collins:M=_L=" pid="52/292">M. L. Collins</na></co>
+<co c="0"><na f="d/Derti:A=" pid="09/5104">A. Derti</na></co>
+<co c="0"><na f="h/Heuer:Michael" pid="64/3223">Michael Heuer</na></co>
+<co c="-1"><na f="h/Hughes:Jim" pid="90/3045">Jim Hughes</na></co>
+<co c="0"><na f="k/Kelso:R=" pid="27/5067">R. Kelso</na></co>
+<co c="0"><na f="k/Kulkarni_0001:Anagha" pid="k/AKulkarni1">Anagha Kulkarni 0001</na></co>
+<co c="0"><na f="l/Laxmeshwar:Nayana" pid="294/5162">Nayana Laxmeshwar</na></co>
+<co c="0"><na f="l/Lever:Jake" pid="81/11416">Jake Lever</na></co>
+<co c="0"><na f="m/Malanthara:Anish" pid="89/4007">Anish Malanthara</na></co>
+<co c="0"><na f="m/Mallory:Emily_K=" pid="173/1968">Emily K. Mallory</na></co>
+<co c="0"><na f="m/Molino:G=" pid="10/1360">G. Molino</na></co>
+<co c="0"><na f="m/Monahan:J=" pid="21/3369">J. Monahan</na></co>
+<co c="0"><na f="n/Nahf:Robert" pid="76/4570">Robert Nahf</na></co>
+<co c="0"><na f="p/Petkovic:Dragutin" pid="31/742">Dragutin Petkovic</na></co>
+<co c="0"><na f="p/Previde:Paul" pid="233/3656">Paul Previde</na></co>
+<co c="0"><na f="s/Sheridan:P=" pid="64/2190">P. Sheridan</na></co>
+<co c="0"><na f="t/Theilhaber:Joachim" pid="80/526">Joachim Theilhaber</na></co>
+<co c="0"><na f="t/Thomas:Brook" pid="233/3809">Brook Thomas</na></co>
+<co c="0"><na f="u/Ulyanov:Anatoly" pid="25/932">Anatoly Ulyanov</na></co>
+<co c="0"><na f="u/Urdea:M=" pid="83/1837">M. Urdea</na></co>
+<co c="0"><na f="w/Wong_0001:Mike" pid="77/5435">Mike Wong 0001</na></co>
+<co c="0"><na f="x/Xu:Dapeng" pid="13/2069">Dapeng Xu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dblpperson name="John R. Smith Jr." pid="178/3870" n="1">
+<person key="homepages/178/3870" mdate="2016-04-11">
+<author pid="178/3870">John R. Smith Jr.</author>
+</person>
+<r><article key="journals/tc/SmithR71" mdate="2017-05-20">
+<author pid="178/3870">John R. Smith Jr.</author>
+<author pid="178/3872">Charles H. Roth Jr.</author>
+<title>Analysis and Synthesis of Asynchronous Sequential Networks Using Edge-Sensitive Flip-Flops.</title>
+<pages>847-855</pages>
+<year>1971</year>
+<volume>20</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/T-C.1971.223360</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/T-C.1971.223360</ee>
+<url>db/journals/tc/tc20.html#SmithR71</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="r/Roth_Jr=:Charles_H=" pid="178/3872">Charles H. Roth Jr.</na></co>
+</coauthors>
+</dblpperson>
+

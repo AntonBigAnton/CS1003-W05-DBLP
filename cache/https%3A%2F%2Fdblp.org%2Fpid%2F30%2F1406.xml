@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<dblpperson name="John W. T. Smith" pid="30/1406" n="4">
+<person key="homepages/30/1406" mdate="2009-06-09">
+<author pid="30/1406">John W. T. Smith</author>
+</person>
+<r><inproceedings key="conf/elpub/Smith03" mdate="2020-02-12">
+<author pid="30/1406">John W. T. Smith</author>
+<title>The Deconstructed Journal Revisited - A Review of Developments.</title>
+<year>2003</year>
+<booktitle>ELPUB</booktitle>
+<ee>https://nbn-resolving.org/urn:nbn:se:elpub-0314</ee>
+<crossref>conf/elpub/2003</crossref>
+<url>db/conf/elpub/elpub2003.html#Smith03</url>
+</inproceedings>
+</r>
+<r><article key="journals/lp/Smith99" mdate="2020-07-16">
+<author pid="30/1406">John W. T. Smith</author>
+<title>The deconstructed journal - a new model for academic publishing.</title>
+<pages>79-91</pages>
+<year>1999</year>
+<volume>12</volume>
+<journal>Learn. Publ.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1087/09531519950145896</ee>
+<ee>https://www.wikidata.org/entity/Q21686614</ee>
+<url>db/journals/lp/lp12.html#Smith99</url>
+</article>
+</r>
+<r><inproceedings key="conf/elpub/Smith99" mdate="2020-02-12">
+<author pid="30/1406">John W. T. Smith</author>
+<title>Prolegomena to any Future E-Publishing Model.</title>
+<year>1999</year>
+<booktitle>ELPUB</booktitle>
+<ee>https://nbn-resolving.org/urn:nbn:se:elpub-9931</ee>
+<crossref>conf/elpub/1999</crossref>
+<url>db/conf/elpub/elpub1999.html#Smith99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/elpub/Smith97" mdate="2020-02-12">
+<author pid="30/1406">John W. T. Smith</author>
+<title>The Deconstructed Journal.</title>
+<year>1997</year>
+<booktitle>ELPUB</booktitle>
+<ee>https://nbn-resolving.org/urn:nbn:se:elpub-97108</ee>
+<crossref>conf/elpub/1997</crossref>
+<url>db/conf/elpub/elpub1997.html#Smith97</url>
+</inproceedings>
+</r>
+</dblpperson>
+

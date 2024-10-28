@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="175985">mariadb*</query>
+<status code="200">OK</status>
+<time unit="msecs">34.94</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="6419">
+<info><authors><author pid="338/6461">Eduardo Pina</author><author pid="141/6136">Filipe Sá</author><author pid="43/3799">Jorge Bernardino</author></authors><title>NewSQL Databases Assessment: CockroachDB, MariaDB Xpand, and VoltDB.</title><venue>Future Internet</venue><volume>15</volume><number>1</number><pages>10</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/fi/PinaSB23</key><doi>10.3390/FI15010010</doi><ee>https://doi.org/10.3390/fi15010010</ee><url>https://dblp.org/rec/journals/fi/PinaSB23</url></info>
+<url>URL#6419</url>
+</hit>
+<hit score="1" id="728440">
+<info><authors><author pid="316/5091">Oscar Izquierdo-Monge</author><author pid="316/5610">Gonzalo Martin-Jimenez</author><author pid="316/5438">Paula Peña-Carro</author></authors><title>Development and Improvement of a Data Storage System in a Microgrid Environment with HomeAssistant and MariaDB.</title><venue>ICSC-Cities</venue><pages>273-284</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icsc-cities/Izquierdo-Monge21</key><doi>10.1007/978-3-030-96753-6_19</doi><ee>https://doi.org/10.1007/978-3-030-96753-6_19</ee><url>https://dblp.org/rec/conf/icsc-cities/Izquierdo-Monge21</url></info>
+<url>URL#728440</url>
+</hit>
+<hit score="1" id="1625523">
+<info><authors><author pid="238/5773">Krishna Prasad Bhattarai</author><author pid="260/7708">Khamvila Visai</author><author pid="258/1872">Ryohei Ito</author><author pid="10/1312">Kazuhiko Sato</author><author pid="138/9842">Bishnu Prasad Gautam</author></authors><title>Monitoring of E-Learning System Servers Using the MariaDB Galera Cluster.</title><venue>NaNA</venue><pages>296-301</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nana/BhattaraiVISG19</key><doi>10.1109/NANA.2019.00058</doi><ee>https://doi.org/10.1109/NaNA.2019.00058</ee><url>https://dblp.org/rec/conf/nana/BhattaraiVISG19</url></info>
+<url>URL#1625523</url>
+</hit>
+<hit score="1" id="2190636">
+<info><authors><author pid="77/3789">Jan Lindström</author><author pid="154/0955">Dhananjoy Das</author><author pid="205/5442">Nick Piggin</author><author pid="205/5422">Santhosh Konundinya</author><author pid="154/0818">Torben Mathiasen</author><author pid="31/5164">Nisha Talagala</author><author pid="28/10163">Dulcardo Arteaga</author></authors><title>An NVM Aware MariaDB Database System and Associated IO Workload on File Systems.</title><venue>Open J. Databases</venue><volume>4</volume><number>1</number><pages>1-21</pages><year>2017</year><type>Journal Articles</type><access>open</access><key>journals/ojdb/LindstromDPKMTA17</key><ee>https://nbn-resolving.org/urn:nbn:de:101:1-201705194662</ee><url>https://dblp.org/rec/journals/ojdb/LindstromDPKMTA17</url></info>
+<url>URL#2190636</url>
+</hit>
+<hit score="1" id="2610191">
+<info><authors><author pid="181/4917">Mark Zaslavskiy</author><author pid="198/4167">Alexander Kaluzhniy</author><author pid="198/4092">Tatyana Berlenko</author><author pid="198/3924">Ilfat Kinyaev</author><author pid="19/9960">Kirill Krinkin</author><author pid="198/3863">Timofey Turenko</author></authors><title>Full automated continuous integration and testing infrastructure for Maxscale and MariaDB.</title><venue>FRUCT</venue><pages>273-278</pages><year>2016</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/fruct/ZaslavskiyKBKKT16</key><doi>10.23919/FRUCT.2016.7892211</doi><ee>https://doi.org/10.23919/FRUCT.2016.7892211</ee><url>https://dblp.org/rec/conf/fruct/ZaslavskiyKBKKT16</url></info>
+<url>URL#2610191</url>
+</hit>
+<hit score="1" id="2990499">
+<info><authors><author pid="77/3789">Jan Lindström</author><author pid="154/0955">Dhananjoy Das</author><author pid="154/0818">Torben Mathiasen</author><author pid="28/10163">Dulcardo Arteaga</author><author pid="31/5164">Nisha Talagala</author></authors><title>NVM aware MariaDB database system.</title><venue>NVMSA</venue><pages>1-6</pages><year>2015</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nvmsa/LindstromDMAT15</key><doi>10.1109/NVMSA.2015.7304362</doi><ee>https://doi.org/10.1109/NVMSA.2015.7304362</ee><url>https://dblp.org/rec/conf/nvmsa/LindstromDMAT15</url></info>
+<url>URL#2990499</url>
+</hit>
+</hits>
+</result>

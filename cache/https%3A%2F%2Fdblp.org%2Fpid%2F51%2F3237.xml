@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<dblpperson name="John G. Smith" pid="51/3237" n="4">
+<person key="homepages/51/3237" mdate="2009-06-09">
+<author pid="51/3237">John G. Smith</author>
+</person>
+<r><inproceedings key="conf/chi/MullerMSWWDR93" mdate="2018-11-06">
+<author pid="91/2964">Michael J. Muller</author>
+<author pid="97/3467">David S. Miller</author>
+<author pid="51/3237">John G. Smith</author>
+<author pid="73/2564">Daniel M. Wildman</author>
+<author pid="46/3466">Ellen A. White</author>
+<author pid="94/6002">Tom Dayton</author>
+<author pid="38/4568">Robert W. Root</author>
+<title>Assessing a groupware implementation of a manual participatory design process.</title>
+<pages>105-106</pages>
+<year>1993</year>
+<crossref>conf/chi/1993c</crossref>
+<booktitle>INTERCHI Adjunct Proceedings</booktitle>
+<ee>https://doi.org/10.1145/259964.260132</ee>
+<url>db/conf/chi/chi1993c.html#MullerMSWWDR93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/chi/SmithMM92" mdate="2018-11-06">
+<author pid="51/3237">John G. Smith</author>
+<author pid="97/3467">David S. Miller</author>
+<author pid="91/2964">Michael J. Muller</author>
+<title>TelePICTIVE groupware for collaborative GUI design.</title>
+<pages>41</pages>
+<year>1992</year>
+<booktitle>CHI Posters and Short Talks</booktitle>
+<ee>https://doi.org/10.1145/1125021.1125059</ee>
+<crossref>conf/chi/1992p</crossref>
+<url>db/conf/chi/chi1992p.html#SmithMM92</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uist/MillerSM92" mdate="2018-11-06">
+<author pid="97/3467">David S. Miller</author>
+<author pid="51/3237">John G. Smith</author>
+<author pid="91/2964">Michael J. Muller</author>
+<title>TelePICTIVE: Computer-supported Collaborative GUI Design for Designers with Diverse Expertise.</title>
+<pages>151-160</pages>
+<year>1992</year>
+<crossref>conf/uist/1992</crossref>
+<booktitle>ACM Symposium on User Interface Software and Technology</booktitle>
+<ee>https://doi.org/10.1145/142621.142643</ee>
+<url>db/conf/uist/uist1992.html#MillerSM92</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigchi/MullerSSG91" mdate="2021-06-22">
+<author pid="91/2964">Michael J. Muller</author>
+<author pid="51/3237">John G. Smith</author>
+<author pid="295/4091">J. Zachary Shoher</author>
+<author pid="295/5113">Harry Goldberg</author>
+<title>Privacy, anonymity and interpersonal competition issues identified during participatory design of project management groupware!</title>
+<pages>82-87</pages>
+<year>1991</year>
+<volume>23</volume>
+<journal>ACM SIGCHI Bull.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/122672.122693</ee>
+<url>db/journals/sigchi/sigchi23.html#MullerSSG91</url>
+</article>
+</r>
+<coauthors n="8" nc="1">
+<co c="0"><na f="d/Dayton:Tom" pid="94/6002">Tom Dayton</na></co>
+<co c="0"><na f="g/Goldberg:Harry" pid="295/5113">Harry Goldberg</na></co>
+<co c="0"><na f="m/Miller:David_S=" pid="97/3467">David S. Miller</na></co>
+<co c="0"><na f="m/Muller:Michael_J=" pid="91/2964">Michael J. Muller</na></co>
+<co c="0"><na f="r/Root:Robert_W=" pid="38/4568">Robert W. Root</na></co>
+<co c="0"><na f="s/Shoher:J=_Zachary" pid="295/4091">J. Zachary Shoher</na></co>
+<co c="0"><na f="w/White:Ellen_A=" pid="46/3466">Ellen A. White</na></co>
+<co c="0"><na f="w/Wildman:Daniel_M=" pid="73/2564">Daniel M. Wildman</na></co>
+</coauthors>
+</dblpperson>
+

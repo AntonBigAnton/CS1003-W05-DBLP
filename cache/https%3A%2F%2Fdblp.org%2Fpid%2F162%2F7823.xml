@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<dblpperson name="John Kei Smith" pid="162/7823" n="1">
+<person key="homepages/162/7823" mdate="2015-05-21">
+<author pid="162/7823">John Kei Smith</author>
+</person>
+<r><incollection key="series/ais/UlicnyMKAS14" mdate="2017-05-16">
+<author pid="02/1489">Brian E. Ulicny</author>
+<author pid="78/1525">Jakub J. Moskal</author>
+<author pid="12/4599">Mieczyslaw M. Kokar</author>
+<author pid="162/7702">Keith Abe</author>
+<author pid="162/7823">John Kei Smith</author>
+<title>Inference and Ontologies.</title>
+<pages>167-199</pages>
+<year>2014</year>
+<booktitle>Cyber Defense and Situational Awareness</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11391-3_9</ee>
+<crossref>series/ais/62</crossref>
+<url>db/series/ais/ais62.html#UlicnyMKAS14</url>
+</incollection>
+</r>
+<coauthors n="4" nc="1">
+<co c="0"><na f="a/Abe:Keith" pid="162/7702">Keith Abe</na></co>
+<co c="0"><na f="k/Kokar:Mieczyslaw_M=" pid="12/4599">Mieczyslaw M. Kokar</na></co>
+<co c="0" n="2"><na f="m/Moskal:Jakub" pid="78/1525">Jakub Moskal</na><na>Jakub J. Moskal</na></co>
+<co c="0" n="2"><na f="u/Ulicny:Brian" pid="02/1489">Brian Ulicny</na><na>Brian E. Ulicny</na></co>
+</coauthors>
+</dblpperson>
+

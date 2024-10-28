@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<dblpperson name="John Miles Smith" pid="35/3801" n="24">
+<person key="homepages/35/3801" mdate="2009-06-10">
+<author pid="35/3801">John Miles Smith</author>
+</person>
+<r><inproceedings key="conf/db-workshops/DayalS85" mdate="2019-08-03">
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>PROBE: A Knowledge-Oriented Database Management System.</title>
+<pages>227-257</pages>
+<year>1985</year>
+<crossref>conf/db-workshops/Islamorada</crossref>
+<booktitle>On Knowledge Base Management Systems (Islamorada)</booktitle>
+<url>db/conf/db-workshops/islamorada85.html#DayalS85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/db-workshops/Smith85a" mdate="2019-08-07">
+<author pid="35/3801">John Miles Smith</author>
+<title>Large-Scale Knowledge Systems.</title>
+<pages>259-281</pages>
+<year>1985</year>
+<crossref>conf/db-workshops/85xania</crossref>
+<booktitle>Foundations of Knowledge Base Management (Xania)</booktitle>
+<url>db/conf/db-workshops/xania85.html#Smith85a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/db-workshops/Smith85" mdate="2019-08-03">
+<author pid="35/3801">John Miles Smith</author>
+<title>Concluding Remarks from the Database Perspective.</title>
+<pages>575-578</pages>
+<year>1985</year>
+<crossref>conf/db-workshops/Islamorada</crossref>
+<booktitle>On Knowledge Base Management Systems (Islamorada)</booktitle>
+<url>db/conf/db-workshops/islamorada85.html#Smith85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigada/FoxNSCD85" mdate="2022-03-25">
+<author pid="17/466">Stephen Fox</author>
+<author pid="85/3087">Anil Nori</author>
+<author pid="35/3801">John Miles Smith</author>
+<author pid="16/4154">Arvola Chan</author>
+<author pid="36/2314">Sy Danberg</author>
+<title>A tool kit for database programming in Ada.</title>
+<pages>41-57</pages>
+<year>1985</year>
+<booktitle>SIGAda</booktitle>
+<ee>https://dl.acm.org/doi/10.1145/324426.324381</ee>
+<crossref>conf/sigada/1985</crossref>
+<url>db/conf/sigada/sigada1985.html#FoxNSCD85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wadas/ChanDLNSF85" mdate="2022-03-24">
+<author pid="316/7125">Aryola Chan</author>
+<author pid="36/2314">Sy Danberg</author>
+<author pid="45/2060">Terry A. Landers</author>
+<author pid="85/3087">Anil Nori</author>
+<author pid="35/3801">John Miles Smith</author>
+<author pid="17/466">Stephen Fox</author>
+<title>A database management capability for Ada.</title>
+<pages>67-92</pages>
+<year>1985</year>
+<booktitle>WADAS</booktitle>
+<ee>https://doi.org/10.1145/325612.325627</ee>
+<crossref>conf/wadas/1985</crossref>
+<url>db/conf/wadas/wadas1985.html#ChanDLNSF85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wi/Smith85" mdate="2017-05-24">
+<author pid="35/3801">John Miles Smith</author>
+<title>Large-Scale Knowledge Systems.</title>
+<pages>294-313</pages>
+<year>1985</year>
+<crossref>conf/wi/1985</crossref>
+<booktitle>Wissensbasierte Systeme</booktitle>
+<url>db/conf/wi/wi1985.html#Smith85</url>
+<ee>https://doi.org/10.1007/978-3-642-70840-4_23</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eds/Smith84" mdate="2019-07-29">
+<author pid="35/3801">John Miles Smith</author>
+<title>Expert Database Systems: A Database Perspective.</title>
+<pages>3-15</pages>
+<year>1984</year>
+<crossref>conf/eds/84</crossref>
+<booktitle>Expert Database Workshop</booktitle>
+<url>db/conf/eds/eds84.html#Smith84</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/afips/SmithBDGLLW81" mdate="2018-11-06">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="28/4334">Nathan Goodman</author>
+<author pid="45/2060">Terry A. Landers</author>
+<author pid="64/4792">Ken W. T. Lin</author>
+<author pid="95/2864">Eugene Wong 0001</author>
+<title>Multibase: integrating heterogeneous distributed database systems.</title>
+<pages>487-499</pages>
+<year>1981</year>
+<booktitle>AFIPS National Computer Conference</booktitle>
+<ee>https://doi.org/10.1145/1500412.1500483</ee>
+<crossref>conf/afips/1981</crossref>
+<url>db/conf/afips/ncc81.html#SmithBDGLLW81</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/McLeodS80" mdate="2021-08-03">
+<ee>https://doi.org/10.1145/800227.806871</ee>
+<ee>https://doi.org/10.1145/960124.806871</ee>
+<ee>https://doi.org/10.1145/960128.806871</ee>
+<author pid="m/DennisMcLeod">Dennis McLeod</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>Abstraction in Databases.</title>
+<pages>19-25</pages>
+<cdrom>PINGREE1980/P019.pdf</cdrom>
+<year>1980</year>
+<crossref>conf/sigmod/80p</crossref>
+<booktitle>Workshop on Data Abstraction, Databases and Conceptual Modelling</booktitle>
+<url>db/conf/sigmod/pingree80.html#McLeodS80</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SmithRKHBC80" mdate="2021-08-03">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="56/4349">Charles Rich</author>
+<author pid="15/2398">Jonathan J. King</author>
+<author pid="69/26">Peter Hitchcock</author>
+<author pid="b/ABorgida">Alexander Borgida</author>
+<author pid="56/3395">Jaime G. Carbonell</author>
+<title>Consistency of Models (discussion).</title>
+<pages>72-76</pages>
+<cdrom>PINGREE1980/P072.pdf</cdrom>
+<year>1980</year>
+<crossref>conf/sigmod/80p</crossref>
+<booktitle>Workshop on Data Abstraction, Databases and Conceptual Modelling</booktitle>
+<url>db/conf/sigmod/pingree80.html#SmithRKHBC80</url>
+<ee>https://doi.org/10.1145/800227.806879</ee>
+<ee>https://doi.org/10.1145/960124.806879</ee>
+<ee>https://doi.org/10.1145/960128.806879</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/SmithS79" mdate="2020-08-12">
+<author pid="20/2010">Diane C. P. Smith</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>Relational Data Base Machines.</title>
+<pages>28-37</pages>
+<year>1979</year>
+<volume>12</volume>
+<journal>Computer</journal>
+<number>3</number>
+<url>db/journals/computer/computer12.html#SmithS79</url>
+<ee>https://doi.org/10.1109/MC.1979.1658651</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.1979.1658651</ee>
+</article>
+</r>
+<r><inproceedings key="conf/db-workshops/SmithS78" mdate="2017-05-19">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<title>Principles of Database Conceptual Design.</title>
+<pages>114-146</pages>
+<year>1978</year>
+<crossref>conf/db-workshops/1978db</crossref>
+<booktitle>Data Base Design Techniques I</booktitle>
+<url>db/conf/db-workshops/dbdesign78.html#SmithS78</url>
+<ee>https://doi.org/10.1007/3-540-11214-6_6</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Smith78" mdate="2012-09-17">
+<crossref>conf/vldb/78</crossref>
+<author pid="35/3801">John Miles Smith</author>
+<title>Comments on the paper &#34;Data Base Design in Theory and Practice&#34; by Bo Sundgren.</title>
+<pages>17-18</pages>
+<cdrom>VLDB78/P017.PDF</cdrom>
+<year>1978</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb78.html#Smith78</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Smith78c" mdate="2017-02-02">
+<author pid="35/3801">John Miles Smith</author>
+<title>Comments on the paper &#34;Data Base Design in Theory and Practice&#34; by Bo Sundgren.</title>
+<pages>31-32</pages>
+<year>1978</year>
+<crossref>conf/vldb/78s</crossref>
+<booktitle>VLDB Surveys</booktitle>
+<url>db/conf/vldb/vldb78s.html#Smith78c</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Smith78d" mdate="2017-02-02">
+<author pid="35/3801">John Miles Smith</author>
+<title>Comments on the Papers &#34;A Software Engineering View of Data Base Management&#34; by I. A. Wasserman and &#34;A Software Engineering View of Data Base Systems&#34; by H. Weber.</title>
+<pages>99-102</pages>
+<year>1978</year>
+<crossref>conf/vldb/78s</crossref>
+<booktitle>VLDB Surveys</booktitle>
+<url>db/conf/vldb/vldb78s.html#Smith78d</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Smith78b" mdate="2017-03-29">
+<crossref>conf/vldb/78</crossref>
+<author pid="35/3801">John Miles Smith</author>
+<title>A Normal Form for Abstract Syntax.</title>
+<pages>156-162</pages>
+<cdrom>VLDB78/P156.PDF</cdrom>
+<year>1978</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb78.html#Smith78b</url>
+<cite>conf/focs/AhoBU77</cite>
+<cite>journals/tods/Bernstein76</cite>
+<cite>...</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>...</cite>
+<cite>persons/Codd72</cite>
+<cite>conf/ifip/Codd74</cite>
+<cite>journals/tods/Fagin77</cite>
+<cite>conf/sigmod/HammerM78</cite>
+<cite>...</cite>
+<cite>conf/sigmod/LeeG78</cite>
+<cite>...</cite>
+<cite>conf/sigmod/MylopoulosBW78</cite>
+<cite>journals/cacm/SmithS77</cite>
+<cite>journals/tods/SmithS77</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/SmithS77" mdate="2018-11-14">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<title>Database Abstractions: Aggregation.</title>
+<pages>405-413</pages>
+<year>1977</year>
+<volume>20</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm20.html#SmithS77</url>
+<ee>https://doi.org/10.1145/359605.359620</ee>
+<ee>https://www.wikidata.org/entity/Q56636663</ee>
+<cdrom>CACMs1/CACM20/P405.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/debu/SmithS77" mdate="2020-03-10">
+<author pid="20/2010">Diane C. P. Smith</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>Research into Database Machines at the University of Utah.</title>
+<pages>1-4</pages>
+<year>1977</year>
+<volume>1</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>1</number>
+<ee type="oa">http://sites.computer.org/debull/77MAR-CD.pdf</ee>
+<url>db/journals/debu/debu1.html#SmithS77</url>
+</article>
+</r>
+<r><article key="journals/tods/SmithS77" mdate="2018-11-14">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<title>Database Abstractions: Aggregation and Generalization.</title>
+<pages>105-133</pages>
+<cdrom>TODS2/P105.PDF</cdrom>
+<year>1977</year>
+<volume>2</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods2.html#SmithS77</url>
+<ee>https://doi.org/10.1145/320544.320546</ee>
+<ee>https://www.wikidata.org/entity/Q56636662</ee>
+<cite>persons/Codd71a</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/SmithS77</cite>
+</article>
+</r>
+<r><article key="journals/tods/LinSS76" mdate="2018-11-06">
+<author pid="50/733">Chyuan Shiun Lin</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>The Design of a Rotating Associative Array Memory for a Relational Database Management Application.</title>
+<pages>53-65</pages>
+<cdrom>TODS1/P053.PDF</cdrom>
+<year>1976</year>
+<volume>1</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<url>db/journals/tods/tods1.html#LinSS76</url>
+<ee>https://doi.org/10.1145/320434.320447</ee>
+<cite>...</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>conf/isca/CopelandS73</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/ac/Slotnick70</cite>
+<cite>journals/cacm/SmithC75</cite>
+<cite>conf/vldb/SuL75</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sigplan/SmithS76" mdate="2021-08-31">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<title>Data Base Abstraction.</title>
+<pages>71</pages>
+<cdrom>SIGPLAN76/P071.pdf</cdrom>
+<year>1976</year>
+<crossref>conf/sigplan/76</crossref>
+<booktitle>Conference on Data: Abstraction, Definition and Structure</booktitle>
+<url>db/conf/sigplan/sigplan1976.html#SmithS76</url>
+<ee>https://doi.org/10.1145/800237.807123</ee>
+<ee>https://doi.org/10.1145/984344.807123</ee>
+<ee>https://doi.org/10.1145/942574.807123</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/SmithC75" mdate="2018-11-06">
+<author pid="35/3801">John Miles Smith</author>
+<author pid="25/3902">Philip Yen-Tang Chang</author>
+<title>Optimizing the Performance of a Relational Algebra Database Interface.</title>
+<pages>568-579</pages>
+<year>1975</year>
+<volume>18</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm18.html#SmithC75</url>
+<ee>https://doi.org/10.1145/361020.361025</ee>
+<cdrom>CACMs1/CACM18/P568.pdf</cdrom>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SmithC75" mdate="2018-11-06">
+<crossref>conf/sigmod/75</crossref>
+<author pid="35/3801">John Miles Smith</author>
+<author pid="25/3902">Philip Yen-Tang Chang</author>
+<title>Optimizing the Performance of a Relational Algebra Data Base Interface (Abstract).</title>
+<pages>64</pages>
+<year>1975</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod75.html#SmithC75</url>
+<ee>https://doi.org/10.1145/500080.500090</ee>
+<cdrom>SIGMOD75/P064.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/LinSS75" mdate="2018-11-06">
+<crossref>conf/vldb/75</crossref>
+<author pid="50/733">Chyuan Shiun Lin</author>
+<author pid="20/2010">Diane C. P. Smith</author>
+<author pid="35/3801">John Miles Smith</author>
+<title>The Design of a Rotating Associative Array Memory for a Relational Database Management Application.</title>
+<pages>453-455</pages>
+<year>1975</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb75.html#LinSS75</url>
+<cdrom>VLDB75/P453.PDF</cdrom>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/cacm/SmithC75</cite>
+<ee>https://doi.org/10.1145/1282480.1282516</ee>
+</inproceedings>
+</r>
+<coauthors n="20" nc="2">
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="1"><na f="b/Borgida:Alexander" pid="b/ABorgida">Alexander Borgida</na></co>
+<co c="1"><na f="c/Carbonell:Jaime_G=" pid="56/3395">Jaime G. Carbonell</na></co>
+<co c="0"><na f="c/Chan:Arvola" pid="16/4154">Arvola Chan</na></co>
+<co c="0"><na f="c/Chan:Aryola" pid="316/7125">Aryola Chan</na></co>
+<co c="-1"><na f="c/Chang:Philip_Yen=Tang" pid="25/3902">Philip Yen-Tang Chang</na></co>
+<co c="0"><na f="d/Danberg:Sy" pid="36/2314">Sy Danberg</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="f/Fox:Stephen" pid="17/466">Stephen Fox</na></co>
+<co c="0"><na f="g/Goodman:Nathan" pid="28/4334">Nathan Goodman</na></co>
+<co c="1"><na f="h/Hitchcock:Peter" pid="69/26">Peter Hitchcock</na></co>
+<co c="1"><na f="k/King:Jonathan_J=" pid="15/2398">Jonathan J. King</na></co>
+<co c="0"><na f="l/Landers:Terry_A=" pid="45/2060">Terry A. Landers</na></co>
+<co c="0"><na f="l/Lin:Chyuan_Shiun" pid="50/733">Chyuan Shiun Lin</na></co>
+<co c="0"><na f="l/Lin:Ken_W=_T=" pid="64/4792">Ken W. T. Lin</na></co>
+<co c="-1"><na f="m/McLeod:Dennis" pid="m/DennisMcLeod">Dennis McLeod</na></co>
+<co c="0" n="2"><na f="n/Nori:Anil_K=" pid="85/3087">Anil K. Nori</na><na>Anil Nori</na></co>
+<co c="1"><na f="r/Rich:Charles" pid="56/4349">Charles Rich</na></co>
+<co c="0"><na f="s/Smith:Diane_C=_P=" pid="20/2010">Diane C. P. Smith</na></co>
+<co c="0"><na f="w/Wong_0001:Eugene" pid="95/2864">Eugene Wong 0001</na></co>
+</coauthors>
+</dblpperson>
+

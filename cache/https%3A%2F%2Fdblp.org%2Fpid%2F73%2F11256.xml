@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<dblpperson name="John Howard Smith" pid="73/11256" n="1">
+<person key="homepages/73/11256" mdate="2012-04-29">
+<author pid="73/11256">John Howard Smith</author>
+</person>
+<r><article key="journals/gc/Smith93" mdate="2020-06-04">
+<author pid="73/11256">John Howard Smith</author>
+<title>Combinatorial congruences from <i>p</i> -subgroups of the symmetric group.</title>
+<pages>293-304</pages>
+<year>1993</year>
+<volume>9</volume>
+<journal>Graphs Comb.</journal>
+<number>2-4</number>
+<ee>https://doi.org/10.1007/BF02988317</ee>
+<url>db/journals/gc/gc9.html#Smith93</url>
+</article>
+</r>
+</dblpperson>
+

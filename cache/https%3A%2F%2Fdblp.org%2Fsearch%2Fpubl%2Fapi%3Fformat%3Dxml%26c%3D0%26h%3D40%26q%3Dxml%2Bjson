@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="175581">xml* json*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.45</time>
+<completions total="1" computed="1" sent="0">
+</completions>
+<hits total="17" computed="17" sent="17" first="0">
+<hit score="3" id="3451533">
+<info><authors><author pid="22/2602">Michael Adeyeye</author><author pid="135/3257">Ishmael Makitla</author><author pid="53/7537">Thomas Fogwill</author></authors><title>Determining the signalling overhead of two common WebRTC methods: JSON via XMLHttpRequest and SIP over WebSocket.</title><venue>AFRICON</venue><pages>1-5</pages><year>2013</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/africon/AdeyeyeMF13</key><doi>10.1109/AFRCON.2013.6757840</doi><ee>https://doi.org/10.1109/AFRCON.2013.6757840</ee><url>https://dblp.org/rec/conf/africon/AdeyeyeMF13</url></info>
+<url>URL#3451533</url>
+</hit>
+<hit score="3" id="3594266">
+<info><authors><author pid="22/2602">Michael Adeyeye</author><author pid="135/3257">Ishmael Makitla</author><author pid="53/7537">Thomas Fogwill</author></authors><title>WebRTC using JSON via XMLHttpRequest and SIP over WebSocket - Initial Signalling Overhead Findings.</title><venue>WEBIST</venue><pages>119-124</pages><year>2013</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/webist/AdeyeyeMF13</key><url>https://dblp.org/rec/conf/webist/AdeyeyeMF13</url></info>
+<url>URL#3594266</url>
+</hit>
+<hit score="2" id="454783">
+<info><authors><author pid="186/8143">Gyan Prakash Tiwary</author><author pid="66/3519">Eleni Stroulia</author><author pid="38/1922-1">Abhishek Srivastava 0001</author></authors><title>Compression of XML and JSON API Responses.</title><venue>IEEE Access</venue><volume>9</volume><pages>57426-57439</pages><year>2021</year><type>Journal Articles</type><access>open</access><key>journals/access/TiwarySS21</key><doi>10.1109/ACCESS.2021.3073041</doi><ee>https://doi.org/10.1109/ACCESS.2021.3073041</ee><url>https://dblp.org/rec/journals/access/TiwarySS21</url></info>
+<url>URL#454783</url>
+</hit>
+<hit score="2" id="466079">
+<info><authors><author pid="174/6740">Ciprian-Octavian Truica</author><author pid="65/11004">Elena Simona Apostol</author><author pid="d/JeromeDarmont">Jérôme Darmont</author><author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author></authors><title>The Forgotten Document-Oriented Database Management Systems: An Overview and Benchmark of Native XML DODBMSes in Comparison with JSON DODBMSes.</title><venue>Big Data Res.</venue><volume>25</volume><pages>100205</pages><year>2021</year><type>Journal Articles</type><access>closed</access><key>journals/bdr/TruicaADP21</key><doi>10.1016/J.BDR.2021.100205</doi><ee>https://doi.org/10.1016/j.bdr.2021.100205</ee><url>https://dblp.org/rec/journals/bdr/TruicaADP21</url></info>
+<url>URL#466079</url>
+</hit>
+<hit score="2" id="787778">
+<info><authors><author pid="299/0302">Filipa Alves dos Santos</author><author pid="299/0457">Hugo André Coelho Cardoso</author><author pid="299/0421">João da Cunha e Costa</author><author pid="299/0535">Válter Ferreira Picas Carvalho</author><author pid="64/3116">José Carlos Ramalho</author></authors><title>DataGen: JSON/XML Dataset Generator.</title><venue>SLATE</venue><pages>6:1-6:14</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/slate/SantosCCCR21</key><doi>10.4230/OASICS.SLATE.2021.6</doi><ee>https://doi.org/10.4230/OASIcs.SLATE.2021.6</ee><url>https://dblp.org/rec/conf/slate/SantosCCCR21</url></info>
+<url>URL#787778</url>
+</hit>
+<hit score="2" id="813368">
+<info><authors><author pid="174/6740">Ciprian-Octavian Truica</author><author pid="65/11004">Elena Simona Apostol</author><author pid="d/JeromeDarmont">Jérôme Darmont</author><author pid="p/TorbenBachPedersen">Torben Bach Pedersen</author></authors><title>The Forgotten Document-Oriented Database Management Systems: An Overview and Benchmark of Native XML DODBMSes in Comparison with JSON DODBMSes.</title><venue>CoRR</venue><volume>abs/2102.02246</volume><year>2021</year><type>Informal Publications</type><access>open</access><key>journals/corr/abs-2102-02246</key><ee>https://arxiv.org/abs/2102.02246</ee><url>https://dblp.org/rec/journals/corr/abs-2102-02246</url></info>
+<url>URL#813368</url>
+</hit>
+<hit score="2" id="2023751">
+<info><authors><author pid="221/3688">Jan Vanura</author><author pid="119/0990">Pavel Kriz</author></authors><title>Perfomance Evaluation of Java, JavaScript and PHP Serialization Libraries for XML, JSON and Binary Formats.</title><venue>SCC</venue><pages>166-175</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/scc2/VanuraK18</key><doi>10.1007/978-3-319-94376-3_11</doi><ee>https://doi.org/10.1007/978-3-319-94376-3_11</ee><url>https://dblp.org/rec/conf/scc2/VanuraK18</url></info>
+<url>URL#2023751</url>
+</hit>
+<hit score="2" id="2117731">
+<info><authors><author pid="h/PatHelland">Pat Helland</author></authors><title>XML and JSON are like cardboard.</title><venue>Commun. ACM</venue><volume>60</volume><number>12</number><pages>46-47</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/cacm/Helland17b</key><doi>10.1145/3132269</doi><ee>https://doi.org/10.1145/3132269</ee><url>https://dblp.org/rec/journals/cacm/Helland17b</url></info>
+<url>URL#2117731</url>
+</hit>
+<hit score="2" id="2195647">
+<info><authors><author pid="h/PatHelland">Pat Helland</author></authors><title>XML and JSON Are Like Cardboard.</title><venue>ACM Queue</venue><volume>15</volume><number>4</number><pages>50</pages><year>2017</year><type>Journal Articles</type><access>closed</access><key>journals/queue/Helland17a</key><doi>10.1145/3134434.3143320</doi><ee>https://doi.org/10.1145/3134434.3143320</ee><url>https://dblp.org/rec/journals/queue/Helland17a</url></info>
+<url>URL#2195647</url>
+</hit>
+<hit score="2" id="2248346">
+<info><authors><author pid="b/PBaumann">Peter Baumann 0001</author><author pid="183/1624">Eric Hirschorn</author><author pid="35/9913">Joan Masó-Pau</author><author pid="132/4908">Vlad Merticariu</author><author pid="77/11245">Dimitar Misev</author></authors><title>All in One: Encoding spatio-temporal big data in XML, JSON, and RDF without information loss.</title><venue>IEEE BigData</venue><pages>3406-3415</pages><year>2017</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/bigdataconf/0001HMMM17</key><doi>10.1109/BIGDATA.2017.8258326</doi><ee>https://doi.org/10.1109/BigData.2017.8258326</ee><url>https://dblp.org/rec/conf/bigdataconf/0001HMMM17</url></info>
+<url>URL#2248346</url>
+</hit>
+<hit score="2" id="2753223">
+<info><authors><author pid="74/8811">Shagufta Scanlon</author></authors><title>A comparative study of data transformations for efficient XML and JSON data compression: an in-depth analysis of data transformation techniques, including tag and capital conversions, character and word N-gram transformations, and domain-specific data transforms using SMILES data as a case study.</title><year>2015</year><type>Books and Theses</type><access>closed</access><key>phd/ethos/Scanlon15</key><ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.732103</ee><url>https://dblp.org/rec/phd/ethos/Scanlon15</url></info>
+<url>URL#2753223</url>
+</hit>
+<hit score="2" id="3334622">
+<info><authors><author pid="147/5120">Falco Nogatz</author><author pid="f/TWFruhwirth">Thom W. Frühwirth</author></authors><title>From XML Schema to JSON Schema: Translation with CHR.</title><venue>CoRR</venue><volume>abs/1406.2125</volume><year>2014</year><type>Informal Publications</type><access>open</access><key>journals/corr/NogatzF14</key><ee>http://arxiv.org/abs/1406.2125</ee><url>https://dblp.org/rec/journals/corr/NogatzF14</url></info>
+<url>URL#3334622</url>
+</hit>
+<hit score="2" id="3754408">
+<info><authors><author pid="65/3884">Kazuaki Maeda</author></authors><title>Performance evaluation of object serialization libraries in XML, JSON and binary formats.</title><venue>DICTAP</venue><pages>177-182</pages><year>2012</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/dictap/Maeda12</key><doi>10.1109/DICTAP.2012.6215346</doi><ee>https://doi.org/10.1109/DICTAP.2012.6215346</ee><url>https://dblp.org/rec/conf/dictap/Maeda12</url></info>
+<url>URL#3754408</url>
+</hit>
+<hit score="2" id="3996054">
+<info><authors><author pid="06/4353">Carlos Rodrigues</author><author pid="240/2123">José Afonso</author><author pid="08/1641">Paulo Tomé</author></authors><title>Mobile Application Webservice Performance Analysis: Restful Services with JSON and XML.</title><venue>CENTERIS</venue><pages>162-169</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/centeris/RodriguesAT11</key><doi>10.1007/978-3-642-24355-4_17</doi><ee>https://doi.org/10.1007/978-3-642-24355-4_17</ee><url>https://dblp.org/rec/conf/centeris/RodriguesAT11</url></info>
+<url>URL#3996054</url>
+</hit>
+<hit score="2" id="4055113">
+<info><authors><author pid="52/9804">Guanhua Wang</author></authors><title>Improving Data Transmission in Web Applications via the Translation between XML and JSON.</title><venue>CMC</venue><pages>182-185</pages><year>2011</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ieeecmc/Wang11a</key><doi>10.1109/CMC.2011.25</doi><ee>https://doi.org/10.1109/CMC.2011.25</ee><url>https://dblp.org/rec/conf/ieeecmc/Wang11a</url></info>
+<url>URL#4055113</url>
+</hit>
+<hit score="2" id="4457677">
+<info><authors><author pid="25/7897">Nurzhan Nurseitov</author><author pid="06/7897">Michael Paulson</author><author pid="18/7898">Randall Reynolds</author><author pid="26/3781">Clemente Izurieta</author></authors><title>Comparison of JSON and XML Data Interchange Formats: A Case Study.</title><venue>CAINE</venue><pages>157-162</pages><year>2009</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/caine/NurseitovPRI09</key><url>https://dblp.org/rec/conf/caine/NurseitovPRI09</url></info>
+<url>URL#4457677</url>
+</hit>
+<hit score="2" id="4771744">
+<info><authors><author pid="30/3830">Ivar Jørstad</author><author pid="67/7288">Elias Bakken</author><author pid="95/7282">Tor Anders Johansen</author></authors><title>Performance Evaluation of JSON and XML for Data Exchange in Mobile Services.</title><venue>WINSYS</venue><pages>237-240</pages><year>2008</year><type>Conference and Workshop Papers</type><access>unavailable</access><key>conf/winsys/JorstadBJ08</key><url>https://dblp.org/rec/conf/winsys/JorstadBJ08</url></info>
+<url>URL#4771744</url>
+</hit>
+</hits>
+</result>

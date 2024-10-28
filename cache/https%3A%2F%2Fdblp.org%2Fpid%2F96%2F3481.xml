@@ -1,0 +1,571 @@
+<?xml version="1.0"?>
+<dblpperson name="John Smith" pid="96/3481" n="32">
+<person publtype="disambiguation" key="homepages/96/3481" mdate="2018-08-05">
+<author pid="96/3481">John Smith</author>
+</person>
+<r><inproceedings key="conf/mm/ZhangFLLSZ0S22" mdate="2022-10-14">
+<author pid="150/6620">Dingwen Zhang</author>
+<author pid="159/1655">Chaowei Fang</author>
+<author pid="31/4112">Wu Liu</author>
+<author pid="36/2028">Xinchen Liu</author>
+<author pid="70/10575">Jingkuan Song</author>
+<author pid="133/4527">Hongyuan Zhu</author>
+<author pid="155/3181-1">Wenbing Huang 0001</author>
+<author pid="96/3481">John Smith</author>
+<title>HCMA'22: 3rd International Workshop on Human-Centric Multimedia Analysis.</title>
+<pages>7407-7409</pages>
+<year>2022</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3503161.3556644</ee>
+<crossref>conf/mm/2022</crossref>
+<url>db/conf/mm/mm2022.html#ZhangFLLSZ0S22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nice/VineyardCCMRSST22" mdate="2022-05-11">
+<author pid="29/7730">Craig M. Vineyard</author>
+<author pid="261/3138">Suma Cardwell</author>
+<author pid="16/2452">Frances S. Chance</author>
+<author pid="157/7636">Srideep Musuvathy</author>
+<author pid="07/7622">Fred Rothganger</author>
+<author pid="33/8066">William Severa</author>
+<author pid="96/3481">John Smith</author>
+<author pid="291/0739">Corinne Teeter</author>
+<author pid="133/3709">Felix Wang</author>
+<author pid="13/6286">James B. Aimone</author>
+<title>Neural Mini-Apps as a Tool for Neuromorphic Computing Insight.</title>
+<pages>40-49</pages>
+<year>2022</year>
+<booktitle>NICE</booktitle>
+<ee>https://doi.org/10.1145/3517343.3517353</ee>
+<crossref>conf/nice/2022</crossref>
+<url>db/conf/nice/nice2022.html#VineyardCCMRSST22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mm/2022hcma" mdate="2022-10-19">
+<editor pid="150/6620">Dingwen Zhang</editor>
+<editor pid="159/1655">Chaowei Fang</editor>
+<editor pid="31/4112">Wu Liu</editor>
+<editor pid="36/2028">Xinchen Liu</editor>
+<editor pid="70/10575">Jingkuan Song</editor>
+<editor pid="133/4527">Hongyuan Zhu</editor>
+<editor pid="155/3181-1">Wenbing Huang 0001</editor>
+<editor pid="96/3481">John Smith</editor>
+<title>HCMA@MM 2022: Proceedings of the 3rd International Workshop on Human-Centric Multimedia Analysis, Lisboa, Portugal, October 10, 2022</title>
+<publisher>ACM</publisher>
+<booktitle>HCMA@MM</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9492-5</isbn>
+<ee>https://doi.org/10.1145/3552458</ee>
+<url>db/conf/mm/hcma2022.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ress/YangYSR21" mdate="2021-03-22">
+<author pid="21/4432">Zaili Yang</author>
+<author pid="281/2720">Zhisen Yang</author>
+<author pid="96/3481">John Smith</author>
+<author pid="287/8876">Bostock Adam Peter Robert</author>
+<title>Risk analysis of bicycle accidents: A Bayesian approach.</title>
+<pages>107460</pages>
+<year>2021</year>
+<volume>209</volume>
+<journal>Reliab. Eng. Syst. Saf.</journal>
+<ee>https://doi.org/10.1016/j.ress.2021.107460</ee>
+<url>db/journals/ress/ress209.html#YangYSR21</url>
+</article>
+</r>
+<r><inproceedings key="conf/mm/LiuLSZ0GS21" mdate="2021-10-20">
+<author pid="31/4112">Wu Liu</author>
+<author pid="36/2028">Xinchen Liu</author>
+<author pid="70/10575">Jingkuan Song</author>
+<author pid="150/6620">Dingwen Zhang</author>
+<author pid="155/3181-1">Wenbing Huang 0001</author>
+<author pid="33/4618">Junbo Guo</author>
+<author pid="96/3481">John Smith</author>
+<title>HUMA'21: 2nd International Workshop on Human-centric Multimedia Analysis.</title>
+<pages>5690-5691</pages>
+<year>2021</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3474085.3478574</ee>
+<crossref>conf/mm/2021</crossref>
+<url>db/conf/mm/mm2021.html#LiuLSZ0GS21</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mm/2021huma" mdate="2021-11-28">
+<editor pid="31/4112">Wu Liu</editor>
+<editor pid="33/4618">Junbo Guo</editor>
+<editor pid="96/3481">John Smith</editor>
+<editor pid="36/2028">Xinchen Liu</editor>
+<editor pid="150/6620">Dingwen Zhang</editor>
+<editor pid="155/3181-1">Wenbing Huang 0001</editor>
+<title>HUMA'21: Proceedings of the 2nd International Workshop on Human-centric Multimedia Analysis, Virtual Event, China, 20 October 2021</title>
+<publisher>ACM</publisher>
+<booktitle>HUMA @ ACM Multimedia</booktitle>
+<year>2021</year>
+<isbn>978-1-4503-8671-5</isbn>
+<ee>https://doi.org/10.1145/3475723</ee>
+<url>db/conf/mm/huma2021.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijcbdd/SmithCSESSC20" mdate="2020-05-07">
+<author pid="96/3481">John Smith</author>
+<author pid="115/6242">Matthew Conover</author>
+<author pid="264/3645">Natalie Stephenson</author>
+<author pid="66/7242">Jesse Eickholt</author>
+<author pid="63/10786">Dong Si</author>
+<author pid="27/798">Miao Sun</author>
+<author pid="130/7387">Renzhi Cao</author>
+<title>TopQA: a topological representation for single-model protein quality assessment with machine learning.</title>
+<pages>144-153</pages>
+<year>2020</year>
+<volume>13</volume>
+<journal>Int. J. Comput. Biol. Drug Des.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJCBDD.2020.105095</ee>
+<url>db/journals/ijcbdd/ijcbdd13.html#SmithCSESSC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/isalalife/MasumoriDSAI20" mdate="2022-07-22">
+<author pid="132/4368">Atsushi Masumori</author>
+<author pid="207/4712">Itsuki Doi</author>
+<author pid="96/3481">John Smith</author>
+<author pid="01/7083">Ryuta Aoki</author>
+<author pid="04/5508">Takashi Ikegami</author>
+<title>Evolving Acoustic Niche Differentiation and Soundscape Complexity Based on Intraspecific Sound Communication.</title>
+<pages>465-472</pages>
+<year>2020</year>
+<booktitle>ALIFE</booktitle>
+<ee>https://doi.org/10.1162/isal_a_00296</ee>
+<crossref>conf/isalalife/2020</crossref>
+<url>db/conf/isalalife/isalalife2020.html#MasumoriDSAI20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/LiuGSZHS20" mdate="2021-07-29">
+<author pid="31/4112">Wu Liu</author>
+<author pid="139/6993">Chuang Gan</author>
+<author pid="70/10575">Jingkuan Song</author>
+<author pid="150/6620">Dingwen Zhang</author>
+<author pid="155/3181-1">Wenbing Huang 0001</author>
+<author pid="96/3481">John Smith</author>
+<title>HUMA'20: 1st International Workshop on Human-Centric Multimedia Analysis.</title>
+<pages>4763-4764</pages>
+<year>2020</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3394171.3421897</ee>
+<crossref>conf/mm/2020</crossref>
+<url>db/conf/mm/mm2020.html#LiuGSZHS20</url>
+</inproceedings>
+</r>
+<r><article key="journals/neuroimage/EssenSGEDDRCH17" mdate="2022-10-02">
+<author pid="53/9680">David C. Van Essen</author>
+<author pid="96/3481">John Smith</author>
+<author pid="125/4074">Matthew F. Glasser</author>
+<author pid="138/7274">Jennifer Stine Elam</author>
+<author orcid="0000-0002-6440-7892" pid="193/8646">Chad J. Donahue</author>
+<author pid="25/10743">Donna L. Dierker</author>
+<author pid="138/7239">Erin Reid</author>
+<author pid="33/10742">Timothy S. Coalson</author>
+<author pid="08/10746">John W. Harwell</author>
+<title>The Brain Analysis Library of Spatial maps and Atlases (BALSA) database.</title>
+<pages>270-274</pages>
+<year>2017</year>
+<volume>144</volume>
+<journal>NeuroImage</journal>
+<ee>https://doi.org/10.1016/j.neuroimage.2016.04.002</ee>
+<ee>https://www.wikidata.org/entity/Q39853908</ee>
+<url>db/journals/neuroimage/neuroimage144.html#EssenSGEDDRCH17</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/BallesterHBSQ17" mdate="2020-12-29">
+<author orcid="0000-0002-6885-0883" pid="210/0558">Carlos Ballester Lurbe</author>
+<author orcid="0000-0003-0714-6646" pid="158/2901">John Hornbuckle</author>
+<author orcid="0000-0002-0721-2458" pid="94/10538">James Brinkhoff</author>
+<author pid="96/3481">John Smith</author>
+<author pid="210/0503">Wendy Quayle</author>
+<title>Assessment of In-Season Cotton Nitrogen Status and Lint Yield Prediction from Unmanned Aerial System Imagery.</title>
+<pages>1149</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>Remote. Sens.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/rs9111149</ee>
+<url>db/journals/remotesensing/remotesensing9.html#BallesterHBSQ17</url>
+</article>
+</r>
+<r><article key="journals/pma/WadeHSW16" mdate="2021-10-14">
+<author pid="203/4997">Laura Wade</author>
+<author orcid="0000-0002-3284-3219" pid="203/5494">Noel N. N. Hanna</author>
+<author pid="96/3481">John Smith</author>
+<author orcid="0000-0001-8030-0561" pid="87/9234">Joe Wolfe</author>
+<title>Soprano singing, with and without resonances.</title>
+<year>2016</year>
+<volume>28</volume>
+<journal>Proc. Meet. Acoust.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1121/2.0000354</ee>
+<url>db/journals/pma/pma28.html#WadeHSW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cogsci/DuffyCS16" mdate="2021-02-02">
+<author pid="38/1208">Sean Duffy</author>
+<author pid="176/2026">L. Elizabeth Crawford</author>
+<author pid="96/3481">John Smith</author>
+<title>Relative influence of anchoring and centering biases in reconstructive memory.</title>
+<year>2016</year>
+<booktitle>CogSci</booktitle>
+<ee type="oa">https://mindmodeling.org/cogsci2016/papers/0657/index.html</ee>
+<crossref>conf/cogsci/2016</crossref>
+<url>db/conf/cogsci/cogsci2016.html#DuffyCS16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/FanBS16" mdate="2017-05-26">
+<author pid="66/3950">Quanfu Fan</author>
+<author pid="b/LisaMGBrown">Lisa M. Brown</author>
+<author pid="96/3481">John Smith</author>
+<title>A closer look at Faster R-CNN for vehicle detection.</title>
+<pages>124-129</pages>
+<year>2016</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2016.7535375</ee>
+<crossref>conf/ivs/2016</crossref>
+<url>db/conf/ivs/ivs2016.html#FanBS16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icimcs/2015" mdate="2019-10-26">
+<editor pid="j/RameshJain">Ramesh C. Jain</editor>
+<editor pid="90/3651">Shuqiang Jiang</editor>
+<editor pid="96/3481">John Smith</editor>
+<editor pid="84/286">Jitao Sang</editor>
+<editor pid="05/10612">Guohui Li</editor>
+<title>Proceedings of the 7th International Conference on Internet Multimedia Computing and Service, ICIMCS 2015, Zhangjiajie, Hunan, China, August 19-21, 2015</title>
+<publisher>ACM</publisher>
+<year>2015</year>
+<isbn>978-1-4503-3528-7</isbn>
+<ee>http://dl.acm.org/citation.cfm?id=2808492</ee>
+<url>db/conf/icimcs/icimcs2015.html</url>
+<booktitle>ICIMCS</booktitle>
+</proceedings>
+</r>
+<r><inproceedings key="conf/chiplay/SmithJ14" mdate="2018-11-06">
+<author pid="96/3481">John Smith</author>
+<author pid="36/2032">Kazuhiro Jo</author>
+<title>&#34;Toru&#34;: a game that reverses the wisdom of age using mosquito sound.</title>
+<pages>375-378</pages>
+<year>2014</year>
+<booktitle>CHI PLAY</booktitle>
+<ee>https://doi.org/10.1145/2658537.2662973</ee>
+<crossref>conf/chiplay/2014</crossref>
+<url>db/conf/chiplay/chiplay2014.html#SmithJ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/embc/CharltonSCBA14" mdate="2022-10-02">
+<author orcid="0000-0003-3836-8655" pid="123/9087">Peter Charlton</author>
+<author pid="96/3481">John Smith</author>
+<author orcid="0000-0001-5600-1676" pid="209/3946">Luigi Camporota</author>
+<author pid="133/5727">Richard Beale</author>
+<author orcid="0000-0003-3742-5259" pid="81/11215">Jordi Alastruey</author>
+<title>Optimising the Windkessel model for cardiac output monitoring during changes in vascular tone.</title>
+<pages>3759-3762</pages>
+<year>2014</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2014.6944441</ee>
+<ee>https://www.wikidata.org/entity/Q41606179</ee>
+<crossref>conf/embc/2014</crossref>
+<url>db/conf/embc/embc2014.html#CharltonSCBA14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccve/Sauras-PerezTS14" mdate="2017-05-24">
+<author pid="186/0699">Pablo Sauras-Perez</author>
+<author pid="78/10484">Joachim Taiber</author>
+<author pid="96/3481">John Smith</author>
+<title>Variability analysis of in-car gesture interaction.</title>
+<pages>777-780</pages>
+<year>2014</year>
+<booktitle>ICCVE</booktitle>
+<ee>https://doi.org/10.1109/ICCVE.2014.7297657</ee>
+<crossref>conf/iccve/2014</crossref>
+<url>db/conf/iccve/iccve2014.html#Sauras-PerezTS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bqgt/Smith10" mdate="2018-11-06">
+<author pid="96/3481">John Smith</author>
+<title>Not so cheap talk: a model of advice with communication costs.</title>
+<pages>16:1</pages>
+<year>2010</year>
+<booktitle>BQGT</booktitle>
+<ee>https://doi.org/10.1145/1807406.1807422</ee>
+<crossref>conf/bqgt/2010</crossref>
+<url>db/conf/bqgt/bqgt2010.html#Smith10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/GarnierWHS08" mdate="2021-11-16">
+<author pid="31/9236">Maeva Garnier</author>
+<author pid="87/9234">Joe Wolfe</author>
+<author pid="173/6494">Nathalie Henrich</author>
+<author pid="96/3481">John Smith</author>
+<title>Interrelationship between vocal effort and vocal tract acoustics: a pilot study.</title>
+<pages>2302-2305</pages>
+<year>2008</year>
+<booktitle>INTERSPEECH</booktitle>
+<ee type="archive">http://www.isca-speech.org/archive/interspeech_2008/i08_2302.html</ee>
+<crossref>conf/interspeech/2008</crossref>
+<url>db/conf/interspeech/interspeech2008.html#GarnierWHS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/TakamizawaIMSK04" mdate="2022-03-23">
+<author pid="316/6164">Nobuhiro Takamizawa</author>
+<author pid="316/6172">Hiroshi Ichisawa</author>
+<author pid="22/6125">Yuko Murayama</author>
+<author pid="96/3481">John Smith</author>
+<author pid="316/6162">Julius P. Kumquat</author>
+<title>Use of telepresence in informal broadcasting over the internet.</title>
+<pages>12-15</pages>
+<year>2004</year>
+<booktitle>ETP@MM</booktitle>
+<ee>https://doi.org/10.1145/1026776.1026781</ee>
+<crossref>conf/mm/2004etp</crossref>
+<url>db/conf/mm/etp2004.html#TakamizawaIMSK04</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/elpub/2001" mdate="2008-04-30">
+<editor pid="82/5241">Arved C. H&#252;bler</editor>
+<editor pid="00/2926">Peter Linde</editor>
+<editor pid="96/3481">John Smith</editor>
+<title>Electronic Publishing '01, 2001 in the Digital Publishing Odyssey: 5th ICCC/IFIP conference held at the University of Kent - ELPUB 2001, Canterbury, UK, July 5-7, 2001. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>2001</year>
+<isbn>1-58603-191-0</isbn>
+<publisher>IOS Press</publisher>
+<url>db/conf/elpub/elpub2001.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/2000" mdate="2008-04-30">
+<editor pid="00/2926">Peter Linde</editor>
+<editor pid="96/3481">John Smith</editor>
+<editor pid="21/2231">Elena Emilianova</editor>
+<title>Electronic Publishing 2000, Electronic Publishing in the Third Millenium: 4th ICCC/IFIP conference held at Kaliningrad/Svetlogorsk - ELPUB 2000, Kaliningrad, Russia, August 17-19, 2000. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>2000</year>
+<isbn>1-891365-07-X</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub2000.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/1999" mdate="2008-04-30">
+<editor pid="96/3481">John Smith</editor>
+<editor pid="a/AndersArdo">Anders Ard&#246;</editor>
+<editor pid="00/2926">Peter Linde</editor>
+<title>Electronic Publishing '99, Redefining the Information Chain - New Ways and Voices: 3rd ICCC/IFIP conference held at the University of Karlskrona/Ronneby - ELPUB 1999, Karlskrona, Sweden, May 10-12, 1999. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>1999</year>
+<isbn>1-891365-04-5</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub1999.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/elpub/1998" mdate="2008-04-30">
+<editor pid="85/1576">Fytton Rowland</editor>
+<editor pid="96/3481">John Smith</editor>
+<title>2nd ICCC/IFIP Conference &#34;Towards the Information Rich Society&#34; held at the Central European University, Budapest - ELPUB 1998, Budapest, Hungary, April 20-22, 1998. Proceedings</title>
+<booktitle>ELPUB</booktitle>
+<year>1998</year>
+<isbn>1-891365-02-9</isbn>
+<publisher>ICCC Press, Washington DC, USA</publisher>
+<url>db/conf/elpub/elpub1998.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cira/SugiharaS97" mdate="2017-05-23">
+<author pid="44/2525">Kazuo Sugihara</author>
+<author pid="96/3481">John Smith</author>
+<title>Genetic algorithms for adaptive motion planning of an autonomous mobile robot.</title>
+<pages>138-143</pages>
+<year>1997</year>
+<booktitle>CIRA</booktitle>
+<ee>https://doi.org/10.1109/CIRA.1997.613850</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CIRA.1997.613850</ee>
+<crossref>conf/cira/1997</crossref>
+<url>db/conf/cira/cira1997.html#SugiharaS97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interspeech/EppsDSW97" mdate="2021-11-16">
+<author pid="92/6424">Julien Epps</author>
+<author pid="00/9334">Annette Dowd</author>
+<author pid="96/3481">John Smith</author>
+<author pid="87/9234">Joe Wolfe</author>
+<title>Real time measurements of the vocal tract resonances during speech.</title>
+<year>1997</year>
+<booktitle>EUROSPEECH</booktitle>
+<ee type="archive">http://www.isca-speech.org/archive/eurospeech_1997/e97_0721.html</ee>
+<crossref>conf/interspeech/1997</crossref>
+<url>db/conf/interspeech/eurospeech1997.html#EppsDSW97</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/elpub/1997" mdate="2008-04-29">
+<editor pid="96/3481">John Smith</editor>
+<title>1st ICCC/IFIP conference held at the University of Kent - ELPUB1997, Canterbury, UK, April 14-16, 1997. Proceedings</title>
+<booktitle>ELPUB 1997</booktitle>
+<year>1997</year>
+<url>db/conf/elpub/elpub1997.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/dl/DewanJSSO95" mdate="2021-11-16">
+<author pid="d/PrasunDewan">Prasun Dewan</author>
+<author pid="j/KevinJeffay">Kevin Jeffay</author>
+<author pid="96/3481">John Smith</author>
+<author pid="s/PDavidStotts">P. David Stotts</author>
+<author pid="88/9374">William R. Oliver</author>
+<title>Early Prototypes of the Repository for Patterned Injury Data.</title>
+<year>1995</year>
+<crossref>conf/dl/95</crossref>
+<booktitle>DL</booktitle>
+<url>db/conf/dl/dl95.html#DewanJSSO95</url>
+<ee type="archive">http://www.csdl.tamu.edu/DL95/papers/dewan/dewan.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vbc/OliverRBSSSSCW94" mdate="2018-08-23">
+<author pid="88/9374">William R. Oliver</author>
+<author pid="66/1141">Julian G. Rosenman</author>
+<author pid="82/488">Aziz A. Boxwala</author>
+<author pid="s/PDavidStotts">P. David Stotts</author>
+<author pid="96/3481">John Smith</author>
+<author pid="225/1569">Mitchell Soltys</author>
+<author pid="225/1678">James Symon</author>
+<author pid="49/4849">Tim J. Cullip</author>
+<author pid="40/10332">Glenn Wagner</author>
+<title>Applications of image processing and visualization in the evaluation of murder and assault.</title>
+<year>1994</year>
+<booktitle>VBC</booktitle>
+<ee>https://doi.org/10.1117/12.185192</ee>
+<crossref>conf/vbc/1994</crossref>
+<url>db/conf/vbc/vbc1994.html#OliverRBSSSSCW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ht/BairdEKSS89" mdate="2019-09-16">
+<ee>https://doi.org/10.1145/74224.74260</ee>
+<author pid="80/3947">Patricia Baird</author>
+<author pid="31/5849">Dennis E. Egan</author>
+<author pid="90/6235">Walter Kintsch</author>
+<author pid="96/3481">John Smith</author>
+<author orcid="0000-0002-0244-0945" pid="s/NorbertAStreitz">Norbert A. Streitz</author>
+<title>Cognitive Aspects of Designing Hypertext Systems.</title>
+<pages>397</pages>
+<cdrom>HT1989/P397.pdf</cdrom>
+<year>1989</year>
+<crossref>conf/ht/89</crossref>
+<booktitle>Hypertext</booktitle>
+<url>db/conf/ht/ht89.html#BairdEKSS89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/ThompsonKRRSB80" mdate="2018-11-06">
+<author pid="39/1222">Edward W. Thompson</author>
+<author pid="66/3728">Patrick G. Karger</author>
+<author pid="22/10970">W. R. Read Jr.</author>
+<author pid="65/9128">Don Ross</author>
+<author pid="96/3481">John Smith</author>
+<author pid="63/10969">Richard von Blucher</author>
+<title>The incorporation of functional level element routines into an existing digital simulation system.</title>
+<pages>394-401</pages>
+<year>1980</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/800139.804561</ee>
+<crossref>conf/dac/1980</crossref>
+<url>db/conf/dac/dac1980.html#ThompsonKRRSB80</url>
+</inproceedings>
+</r>
+<coauthors n="94" nc="17">
+<co c="2"><na f="a/Aimone:James_B=" pid="13/6286">James B. Aimone</na></co>
+<co c="13"><na f="a/Alastruey:Jordi" pid="81/11215">Jordi Alastruey</na></co>
+<co c="10"><na f="a/Aoki:Ryuta" pid="01/7083">Ryuta Aoki</na></co>
+<co c="8"><na f="a/Ard=ouml=:Anders" pid="a/AndersArdo">Anders Ard&#246;</na></co>
+<co c="9"><na f="b/Baird:Patricia" pid="80/3947">Patricia Baird</na></co>
+<co c="13"><na f="b/Beale:Richard" pid="133/5727">Richard Beale</na></co>
+<co c="4" n="2"><na f="b/Bernardoni:Nathalie_Henrich" pid="173/6494">Nathalie Henrich Bernardoni</na><na>Nathalie Henrich</na></co>
+<co c="6"><na f="b/Blucher:Richard_von" pid="63/10969">Richard von Blucher</na></co>
+<co c="1"><na f="b/Boxwala:Aziz_A=" pid="82/488">Aziz A. Boxwala</na></co>
+<co c="7"><na f="b/Brinkhoff:James" pid="94/10538">James Brinkhoff</na></co>
+<co c="0"><na f="b/Brown:Lisa_M=" pid="b/LisaMGBrown">Lisa M. Brown</na></co>
+<co c="13"><na f="c/Camporota:Luigi" pid="209/3946">Luigi Camporota</na></co>
+<co c="5"><na f="c/Cao:Renzhi" pid="130/7387">Renzhi Cao</na></co>
+<co c="2"><na f="c/Cardwell:Suma" pid="261/3138">Suma Cardwell</na></co>
+<co c="2"><na f="c/Chance:Frances_S=" pid="16/2452">Frances S. Chance</na></co>
+<co c="13"><na f="c/Charlton:Peter" pid="123/9087">Peter Charlton</na></co>
+<co c="3"><na f="c/Coalson:Timothy_S=" pid="33/10742">Timothy S. Coalson</na></co>
+<co c="5"><na f="c/Conover:Matthew" pid="115/6242">Matthew Conover</na></co>
+<co c="15"><na f="c/Crawford:L=_Elizabeth" pid="176/2026">L. Elizabeth Crawford</na></co>
+<co c="1"><na f="c/Cullip:Tim_J=" pid="49/4849">Tim J. Cullip</na></co>
+<co c="1"><na f="d/Dewan:Prasun" pid="d/PrasunDewan">Prasun Dewan</na></co>
+<co c="3"><na f="d/Dierker:Donna_L=" pid="25/10743">Donna L. Dierker</na></co>
+<co c="10"><na f="d/Doi:Itsuki" pid="207/4712">Itsuki Doi</na></co>
+<co c="3"><na f="d/Donahue:Chad_J=" pid="193/8646">Chad J. Donahue</na></co>
+<co c="4"><na f="d/Dowd:Annette" pid="00/9334">Annette Dowd</na></co>
+<co c="15"><na f="d/Duffy:Sean" pid="38/1208">Sean Duffy</na></co>
+<co c="9"><na f="e/Egan:Dennis_E=" pid="31/5849">Dennis E. Egan</na></co>
+<co c="5"><na f="e/Eickholt:Jesse" pid="66/7242">Jesse Eickholt</na></co>
+<co c="3"><na f="e/Elam:Jennifer_Stine" pid="138/7274">Jennifer Stine Elam</na></co>
+<co c="8"><na f="e/Emilianova:Elena" pid="21/2231">Elena Emilianova</na></co>
+<co c="4"><na f="e/Epps:Julien" pid="92/6424">Julien Epps</na></co>
+<co c="3"><na f="e/Essen:David_C=_Van" pid="53/9680">David C. Van Essen</na></co>
+<co c="0"><na f="f/Fan:Quanfu" pid="66/3950">Quanfu Fan</na></co>
+<co c="0"><na f="f/Fang:Chaowei" pid="159/1655">Chaowei Fang</na></co>
+<co c="0"><na f="g/Gan:Chuang" pid="139/6993">Chuang Gan</na></co>
+<co c="4"><na f="g/Garnier:Maeva" pid="31/9236">Maeva Garnier</na></co>
+<co c="3"><na f="g/Glasser:Matthew_F=" pid="125/4074">Matthew F. Glasser</na></co>
+<co c="0"><na f="g/Guo:Junbo" pid="33/4618">Junbo Guo</na></co>
+<co c="4"><na f="h/Hanna:Noel_N=_N=" pid="203/5494">Noel N. N. Hanna</na></co>
+<co c="3"><na f="h/Harwell:John_W=" pid="08/10746">John W. Harwell</na></co>
+<co c="7"><na f="h/Hornbuckle:John" pid="158/2901">John Hornbuckle</na></co>
+<co c="0"><na f="h/Huang_0001:Wenbing" pid="155/3181-1">Wenbing Huang 0001</na></co>
+<co c="8"><na f="h/H=uuml=bler:Arved_C=" pid="82/5241">Arved C. H&#252;bler</na></co>
+<co c="12"><na f="i/Ichisawa:Hiroshi" pid="316/6172">Hiroshi Ichisawa</na></co>
+<co c="10"><na f="i/Ikegami:Takashi" pid="04/5508">Takashi Ikegami</na></co>
+<co c="11"><na f="j/Jain:Ramesh_C=" pid="j/RameshJain">Ramesh C. Jain</na></co>
+<co c="1"><na f="j/Jeffay:Kevin" pid="j/KevinJeffay">Kevin Jeffay</na></co>
+<co c="11"><na f="j/Jiang:Shuqiang" pid="90/3651">Shuqiang Jiang</na></co>
+<co c="-1"><na f="j/Jo:Kazuhiro" pid="36/2032">Kazuhiro Jo</na></co>
+<co c="6"><na f="k/Karger:Patrick_G=" pid="66/3728">Patrick G. Karger</na></co>
+<co c="9"><na f="k/Kintsch:Walter" pid="90/6235">Walter Kintsch</na></co>
+<co c="12"><na f="k/Kumquat:Julius_P=" pid="316/6162">Julius P. Kumquat</na></co>
+<co c="11" n="2"><na f="l/Li:GuoHui" pid="05/10612">GuoHui Li</na><na>Guohui Li</na></co>
+<co c="8"><na f="l/Linde:Peter" pid="00/2926">Peter Linde</na></co>
+<co c="0"><na f="l/Liu:Wu" pid="31/4112">Wu Liu</na></co>
+<co c="0"><na f="l/Liu:Xinchen" pid="36/2028">Xinchen Liu</na></co>
+<co c="7"><na f="l/Lurbe:Carlos_Ballester" pid="210/0558">Carlos Ballester Lurbe</na></co>
+<co c="10"><na f="m/Masumori:Atsushi" pid="132/4368">Atsushi Masumori</na></co>
+<co c="12"><na f="m/Murayama:Yuko" pid="22/6125">Yuko Murayama</na></co>
+<co c="2"><na f="m/Musuvathy:Srideep" pid="157/7636">Srideep Musuvathy</na></co>
+<co c="1"><na f="o/Oliver:William_R=" pid="88/9374">William R. Oliver</na></co>
+<co c="7" n="2"><na f="q/Quayle:Wendy_C=" pid="210/0503">Wendy C. Quayle</na><na>Wendy Quayle</na></co>
+<co c="6"><na f="r/Read_Jr=:W=_R=" pid="22/10970">W. R. Read Jr.</na></co>
+<co c="3"><na f="r/Reid:Erin" pid="138/7239">Erin Reid</na></co>
+<co c="14"><na f="r/Robert:Bostock_Adam_Peter" pid="287/8876">Bostock Adam Peter Robert</na></co>
+<co c="1"><na f="r/Rosenman:Julian_G=" pid="66/1141">Julian G. Rosenman</na></co>
+<co c="6"><na f="r/Ross:Don" pid="65/9128">Don Ross</na></co>
+<co c="2"><na f="r/Rothganger:Fred" pid="07/7622">Fred Rothganger</na></co>
+<co c="-1"><na f="r/Rowland:Fytton" pid="85/1576">Fytton Rowland</na></co>
+<co c="11"><na f="s/Sang:Jitao" pid="84/286">Jitao Sang</na></co>
+<co c="16"><na f="s/Sauras=Perez:Pablo" pid="186/0699">Pablo Sauras-Perez</na></co>
+<co c="2"><na f="s/Severa:William" pid="33/8066">William Severa</na></co>
+<co c="5"><na f="s/Si:Dong" pid="63/10786">Dong Si</na></co>
+<co c="1"><na f="s/Soltys:Mitchell" pid="225/1569">Mitchell Soltys</na></co>
+<co c="0"><na f="s/Song:Jingkuan" pid="70/10575">Jingkuan Song</na></co>
+<co c="5"><na f="s/Stephenson:Natalie" pid="264/3645">Natalie Stephenson</na></co>
+<co c="1"><na f="s/Stotts:P=_David" pid="s/PDavidStotts">P. David Stotts</na></co>
+<co c="9"><na f="s/Streitz:Norbert_A=" pid="s/NorbertAStreitz">Norbert A. Streitz</na></co>
+<co c="-1"><na f="s/Sugihara:Kazuo" pid="44/2525">Kazuo Sugihara</na></co>
+<co c="5"><na f="s/Sun:Miao" pid="27/798">Miao Sun</na></co>
+<co c="1"><na f="s/Symon:James" pid="225/1678">James Symon</na></co>
+<co c="16"><na f="t/Taiber:Joachim" pid="78/10484">Joachim Taiber</na></co>
+<co c="12"><na f="t/Takamizawa:Nobuhiro" pid="316/6164">Nobuhiro Takamizawa</na></co>
+<co c="2"><na f="t/Teeter:Corinne" pid="291/0739">Corinne Teeter</na></co>
+<co c="6"><na f="t/Thompson:Edward_W=" pid="39/1222">Edward W. Thompson</na></co>
+<co c="2"><na f="v/Vineyard:Craig_M=" pid="29/7730">Craig M. Vineyard</na></co>
+<co c="4"><na f="w/Wade:Laura" pid="203/4997">Laura Wade</na></co>
+<co c="1"><na f="w/Wagner:Glenn" pid="40/10332">Glenn Wagner</na></co>
+<co c="2"><na f="w/Wang:Felix" pid="133/3709">Felix Wang</na></co>
+<co c="4"><na f="w/Wolfe:Joe" pid="87/9234">Joe Wolfe</na></co>
+<co c="14"><na f="y/Yang:Zaili" pid="21/4432">Zaili Yang</na></co>
+<co c="14"><na f="y/Yang:Zhisen" pid="281/2720">Zhisen Yang</na></co>
+<co c="0"><na f="z/Zhang:Dingwen" pid="150/6620">Dingwen Zhang</na></co>
+<co c="0"><na f="z/Zhu:Hongyuan" pid="133/4527">Hongyuan Zhu</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<dblpperson name="D. Jackson Coleman" pid="129/0680" n="1">
+<person key="homepages/129/0680" mdate="2013-04-30">
+<author pid="129/0680">D. Jackson Coleman</author>
+</person>
+<r><article key="journals/imst/LizziALDCS97" mdate="2020-06-18">
+<author pid="26/460">Frederic L. Lizzi</author>
+<author pid="129/0679">Michael Astor</author>
+<author pid="49/4426">Tian Liu</author>
+<author pid="81/1819">Cheri X. Deng</author>
+<author pid="129/0680">D. Jackson Coleman</author>
+<author pid="55/1788">Ronald H. Silverman</author>
+<title>Ultrasonic spectrum analysis for tissue assays and therapy evaluation.</title>
+<pages>3-10</pages>
+<year>1997</year>
+<volume>8</volume>
+<journal>Int. J. Imaging Syst. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/(SICI)1098-1098(1997)8:1&#60;3::AID-IMA2&#62;3.0.CO;2-E</ee>
+<url>db/journals/imst/imst8.html#LizziALDCS97</url>
+</article>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="a/Astor:Michael" pid="129/0679">Michael Astor</na></co>
+<co c="0"><na f="d/Deng:Cheri_X=" pid="81/1819">Cheri X. Deng</na></co>
+<co c="0"><na f="l/Liu:Tian" pid="49/4426">Tian Liu</na></co>
+<co c="0"><na f="l/Lizzi:Frederic_L=" pid="26/460">Frederic L. Lizzi</na></co>
+<co c="0"><na f="s/Silverman:Ronald_H=" pid="55/1788">Ronald H. Silverman</na></co>
+</coauthors>
+</dblpperson>
+

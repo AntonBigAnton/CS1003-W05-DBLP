@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<dblpperson name="John P. Smith" pid="93/2386" n="4">
+<person key="homepages/93/2386" mdate="2013-04-25">
+<author pid="93/2386">John P. Smith</author>
+</person>
+<r><inproceedings key="conf/icls/LevinSKKC20" mdate="2021-05-07">
+<author pid="01/8296">Mariana Levin</author>
+<author pid="93/2386">John P. Smith</author>
+<author pid="291/9306">Shiv Karunakaran</author>
+<author pid="291/8978">Valentin A. B. K&#252;chle</author>
+<author pid="291/7403">Sarah Castle</author>
+<title>Conceptualizing STEM Majors' Developing Agency and Autonomy in Undergraduate Mathematics.</title>
+<year>2020</year>
+<booktitle>ICLS</booktitle>
+<ee type="oa">https://repository.isls.org/handle/1/6814</ee>
+<crossref>conf/icls/2020</crossref>
+<url>db/conf/icls/icls2020.html#LevinSKKC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/MatuszewskiSSV03" mdate="2021-02-03">
+<author pid="35/5712">Bogdan J. Matuszewski</author>
+<author pid="97/648">Lik-Kwan Shark</author>
+<author pid="93/2386">John P. Smith</author>
+<author pid="56/4637">Martin R. Varley</author>
+<title>Error Equalisation for Sparse Image Mosaic Construction.</title>
+<pages>1-10</pages>
+<year>2003</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.17.52</ee>
+<crossref>conf/bmvc/2003</crossref>
+<url>db/conf/bmvc/bmvc2003.html#MatuszewskiSSV03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sip/MatuszewskiSSV99" mdate="2013-04-25">
+<author pid="35/5712">Bogdan J. Matuszewski</author>
+<author pid="97/648">Lik-Kwan Shark</author>
+<author pid="93/2386">John P. Smith</author>
+<author pid="56/4637">Martin R. Varley</author>
+<title>Automatic Registration of Ultrasound Images with Wire-Frame CAD Models.</title>
+<pages>134-138</pages>
+<year>1999</year>
+<crossref>conf/sip/1999</crossref>
+<booktitle>SIP</booktitle>
+<url>db/conf/sip/sip1999.html#MatuszewskiSSV99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sip/SharkMS99" mdate="2013-04-25">
+<author pid="97/648">Lik-Kwan Shark</author>
+<author pid="35/5712">Bogdan J. Matuszewski</author>
+<author pid="93/2386">John P. Smith</author>
+<title>Automatic Mosaicing and Construction of Three-Dimensional Shearographic Surface Images.</title>
+<pages>183-187</pages>
+<year>1999</year>
+<crossref>conf/sip/1999</crossref>
+<booktitle>SIP</booktitle>
+<url>db/conf/sip/sip1999.html#SharkMS99</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="2">
+<co c="0"><na f="c/Castle:Sarah" pid="291/7403">Sarah Castle</na></co>
+<co c="0"><na f="k/Karunakaran:Shiv" pid="291/9306">Shiv Karunakaran</na></co>
+<co c="0"><na f="k/K=uuml=chle:Valentin_A=_B=" pid="291/8978">Valentin A. B. K&#252;chle</na></co>
+<co c="0"><na f="l/Levin:Mariana" pid="01/8296">Mariana Levin</na></co>
+<co c="1"><na f="m/Matuszewski:Bogdan_J=" pid="35/5712">Bogdan J. Matuszewski</na></co>
+<co c="1"><na f="s/Shark:Lik=Kwan" pid="97/648">Lik-Kwan Shark</na></co>
+<co c="1"><na f="v/Varley:Martin_R=" pid="56/4637">Martin R. Varley</na></co>
+</coauthors>
+</dblpperson>
+

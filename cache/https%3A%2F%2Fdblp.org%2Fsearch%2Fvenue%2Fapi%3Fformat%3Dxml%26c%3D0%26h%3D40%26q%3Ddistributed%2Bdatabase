@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="89314">distributed* database*</query>
+<status code="200">OK</status>
+<time unit="msecs">1.12</time>
+<completions total="2" computed="2" sent="0">
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="3" id="2271">
+<info><venue>IEEE International Symposium on Reliable Distributed Systems (SRDS)</venue><acronym>SRDS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/srds/</url></info>
+<url>URL#2271</url>
+</hit>
+<hit score="3" id="3335">
+<info><venue>International Conference on Database and Expert Systems Applications (DEXA)</venue><acronym>DEXA</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/dexa/</url></info>
+<url>URL#3335</url>
+</hit>
+<hit score="2" id="1403">
+<info><venue>Distributed and Parallel Databases</venue><type>Journal</type><url>https://dblp.org/db/journals/dpd/</url></info>
+<url>URL#1403</url>
+</hit>
+<hit score="2" id="3279">
+<info><venue>International Conference on Coordination Models and Languages (COORDINATION)</venue><acronym>COORDINATION</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/coordination/</url></info>
+<url>URL#3279</url>
+</hit>
+<hit score="2" id="3664">
+<info><venue>International Conference on Information and Knowledge Management (CIKM)</venue><acronym>CIKM</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/cikm/</url></info>
+<url>URL#3664</url>
+</hit>
+<hit score="2" id="4890">
+<info><venue>International Symposium on Databases in Parallel and Distributed Systems  (DPDS)</venue><acronym>DPDS</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/dpds/</url></info>
+<url>URL#4890</url>
+</hit>
+<hit score="2" id="4991">
+<info><venue>International Symposium on Objects and Databases (SODB)</venue><acronym>SODB</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/oodbs/</url></info>
+<url>URL#4991</url>
+</hit>
+<hit score="2" id="6562">
+<info><venue>OnTheMove Federated Conferences &amp; Workshops (OTM)</venue><acronym>OTM</acronym><type>Conference or Workshop</type><url>https://dblp.org/db/conf/otm/</url></info>
+<url>URL#6562</url>
+</hit>
+</hits>
+</result>

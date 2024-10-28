@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<dblpperson name="John G. B. Byatt-Smith" pid="234/3480" n="1">
+<person key="homepages/234/3480" mdate="2019-01-28">
+<author pid="234/3480">John G. B. Byatt-Smith</author>
+</person>
+<r><article key="journals/siamma/Byatt-SmithB02" mdate="2020-07-03">
+<author pid="234/3480">John G. B. Byatt-Smith</author>
+<author orcid="0000-0003-4991-9205" pid="234/3329">Harry W. Braden</author>
+<title>Functional Equations and Poincar&#233; Invariant Mechanical Systems.</title>
+<pages>736-758</pages>
+<year>2002</year>
+<volume>34</volume>
+<journal>SIAM J. Math. Anal.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/S0036141001393742</ee>
+<url>db/journals/siamma/siamma34.html#Byatt-SmithB02</url>
+</article>
+</r>
+<coauthors n="1" nc="0">
+<co c="-1"><na f="b/Braden:Harry_W=" pid="234/3329">Harry W. Braden</na></co>
+</coauthors>
+</dblpperson>
+
